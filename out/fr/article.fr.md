@@ -138,13 +138,13 @@ Un SPV n’est pas une structure unique et rigide : il **peut être établi so
 *Pour plus d’informations sur les formes de SPV par région, voir la section ci‑dessous.*
 | Type de SPV | Juridictions courantes | Cas d’usage principaux |
 | :---- | :---- | :---- |
-| **Corporation / Limited Co.** | Global (p. ex., Delaware C‑Corp, UK Ltd, SA française, GmbH allemande). | Offre une responsabilité limitée aux propriétaires. Souvent utilisée pour des structures de propriété « orphan ». |
-| **Limited Liability Company (LLC)** | Populaire aux États‑Unis (surtout Delaware). | Idéale pour les syndications de venture capital et la détention d’actifs. Offre une protection en responsabilité avec fiscalité pass‑through. |
-| **Limited Partnership (LP)** | Reconnu mondialement (p. ex., Delaware LP, UK PFLP, GmbH & Co. KG allemande). | Structure courante pour les fonds et les SPV. Offre une responsabilité limitée aux investisseurs (LPs) avec fiscalité pass‑through. |
 | **Société Civile (SC)** | France | Structure de partenariat pour l’immobilier et les patrimoines familiaux. Translucidité fiscale, mais responsabilité illimitée des associés. |
-| **Trusts** | Cadres juridiques très variables selon la juridiction (p. ex., US, UK). | Utilisés pour des titrisations (création d’ABS). Servent aussi à faciliter des structures de propriété « orphan ». |
 | **Structures de fonds** | Utilisées dans certaines juridictions comme la France et le Luxembourg. | Fonds non constitués en société offrant une étanchéité à la faillite prévue par la loi. |
+| **Corporation / Limited Co.** | Global (p. ex., Delaware C‑Corp, UK Ltd, SA française, GmbH allemande). | Offre une responsabilité limitée aux propriétaires. Souvent utilisée pour des structures de propriété « orphan ». |
+| **Limited Partnership (LP)** | Reconnu mondialement (p. ex., Delaware LP, UK PFLP, GmbH & Co. KG allemande). | Structure courante pour les fonds et les SPV. Offre une responsabilité limitée aux investisseurs (LPs) avec fiscalité pass‑through. |
+| **Trusts** | Cadres juridiques très variables selon la juridiction (p. ex., US, UK). | Utilisés pour des titrisations (création d’ABS). Servent aussi à faciliter des structures de propriété « orphan ». |
 | **Structures « Series »/ségréguées** | Certains États américains (Series LLC) et juridictions offshore comme les Cayman Islands (SPC). | Permettent à une entité juridique unique de créer plusieurs portefeuilles cloisonnés en interne. Réduisent les coûts par rapport à la création de nombreux SPV distincts. |
+| **Limited Liability Company (LLC)** | Populaire aux États‑Unis (surtout Delaware). | Idéale pour les syndications de venture capital et la détention d’actifs. Offre une protection en responsabilité avec fiscalité pass‑through. |
 ### Acteurs clés d’un SPV {#key-players-in-an-spv}
 Un SPV performant s’appuie sur un réseau de participants, chacun jouant un rôle précis pour garantir une structuration, un financement et une gestion efficaces du véhicule.
 * **Sponsor (ou société mère) :** Organisation qui **crée le SPV**. Sa motivation principale est d’isoler le risque financier d’un projet spécifique de son propre bilan.  
@@ -159,19 +159,6 @@ et un contrôle affaire par affaire supérieur à celui qu’offre un fonds trad
 * **Fournisseurs de services** : Un réseau de professionnels fournit un appui essentiel. Il comprend des **cabinets d’avocats** pour la structuration juridique, des **experts‑comptables** pour la fiscalité et le reporting financier, des banques pour la conservation des fonds, et des **administrateurs de SPV** spécialisés pour la gestion back‑office et la conformité.  
 * **Régulateurs** : Les autorités publiques (comme la SEC aux États‑Unis) définissent le **cadre juridique** applicable aux SPV. Elles font respecter les règles de valeurs mobilières et fiscales et limitent souvent le nombre et le type d’investisseurs pouvant participer à une offre.
 ## Formes juridiques des SPV (véhicules ad hoc) par pays {#legal-forms-for-spvs-by-country}
-### SPV aux États‑Unis {#spvs-in-the-united-states}
-Les États‑Unis offrent un environnement très développé et flexible pour les SPV, avec le **Delaware** comme État d’immatriculation privilégié pour la robustesse de son droit des sociétés. Le choix de l’entité vise généralement à concilier une forte protection en responsabilité et une efficacité de transparence fiscale (pass‑through).
-Structures clés :
-* [**Limited Liability Company (LLC)**](https ://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)** :** Le choix le plus répandu pour les SPV de venture capital, d’immobilier et de private equity, offrant une grande flexibilité contractuelle.  
-* [**Limited Partnership (LP)**](https ://www.irs.gov/businesses/partnerships)** :** Structure fréquente pour les fonds d’investissement et les opérations internationales, procurant une responsabilité limitée aux investisseurs.  
-* [**Trusts and Corporations**](https ://www.irs.gov/charities-non-profits/definition-of-a-trust)** :** Utilisés pour des usages plus spécifiques, par exemple les titrisations (Trusts) ou comme entités « blocker » pour des investisseurs sensibles à la fiscalité (C‑corps).
-La réglementation est principalement supervisée par la SEC. Les SPV doivent se conformer au droit des valeurs mobilières, qui limite souvent le nombre d’investisseurs et exige qu’ils soient des « investisseurs accrédités ».
-### SPV au Royaume‑Uni {#spvs-in-the-united-kingdom}
-Le Royaume‑Uni propose plusieurs structures juridiques distinctes pour les SPV, allant des formes sociétaires classiques à des montages plus transparents fiscalement de type partenariat et trust.
-Structures clés :
-* [**Private Limited Company (Ltd)**](https ://www.legislation.gov.uk/ukpga/2006/46/contents)** :** La forme de SPV la plus courante, offrant une responsabilité limitée mais soumise à l’Impôt sur les sociétés britannique et à davantage de conformité que les LLC américaines.  
-* [**Private Fund Limited Partnership (PFLP)**](https ://www.legislation.gov.uk/ukdsi/2017/9780111153208)** :** Choix fréquent et fiscalement transparent pour des SPV de venture capital au Royaume‑Uni, mais nécessitant un gestionnaire réglementé et des coûts administratifs plus élevés.  
-* [**Bare Trust**](https ://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem1563)** :** Structure de nominee simple et peu coûteuse où le trustee détient les actions pour les bénéficiaires. Elle est fiscalement transparente et souvent utilisée comme alternative non réglementée au partenariat. C’est aussi le seul type de SPV britannique permettant aux investisseurs de bénéficier des dispositifs fiscaux EIS, SEIS, procurant des allégements supplémentaires.
 ### SPV en France {#spvs-in-france}
 En France, les SPV peuvent adopter diverses formes sociétaires ou de partenariat, avec une préférence croissante pour des formes plus flexibles. La France dispose aussi de véhicules hautement spécialisés, juridiquement isolés du risque de faillite, pour la titrisation.
 Structures clés :
@@ -182,11 +169,6 @@ Structures clés :
 Roundtable propose les structures **Société par Actions Simplifiée (SAS)** et **Société Civile (SC)** comme principaux véhicules de SPV en France du fait de leur nature fiscalement translucide, ce qui signifie que le SPV n’est pas imposé au niveau de la société.
 À la place, **les bénéfices et plus‑values sont imposés une seule fois, directement entre les mains des investisseurs**, selon leur régime fiscal personnel. Cette structuration **évite la double imposition** souvent observée dans les sociétés classiques, et permet dans la plupart des cas aux investisseurs de conserver une part nette plus importante des retours.
 **En savoir plus sur [la fiscalité des SPV en France](https ://www.roundtable.eu/blog/fr/la-fiscalite-du-spv-un-aspect-trop-souvent-neglige)**
-### SPV en Allemagne {#spvs-in-germany}
-Le paysage allemand des SPV se caractérise par des structures de sociétés et de partenariats bien définies, avec un accent sur une forte limitation de responsabilité (Haftungsbeschränkung).
-Structures clés :
-* [**Gesellschaft mit beschränkter Haftung (GmbH)**](https ://www.gesetze-im-internet.de/gmbhg/)** :** Forme la plus répandue pour un SPV dédié à un projet (Projektgesellschaft), elle offre une responsabilité limitée mais est soumise à l’impôt sur les sociétés et exige [un capital minimum de 25 000 €](https ://lawyersgermany.com/the-share-capital-in-germany/).  
-* [**GmbH & Co. KG**](https ://www.gesetze-im-internet.de/hgb/)** :** Société en commandite populaire utilisant une GmbH comme associé commandité. Cette structure assure une responsabilité limitée globale tout en conservant la transparence fiscale d’un partenariat. ![][image1]
 ### SPV au Luxembourg {#spvs-in-luxembourg}
 En tant que grand centre financier européen, le Luxembourg offre une large gamme de structures de SPV, appréciées pour les holdings et les fonds d’investissement alternatifs en raison de leur flexibilité et de leur efficience fiscale, avec accès aux marchés européens.
 Structures clés :
@@ -199,7 +181,40 @@ La SCSp est la structure de SPV la plus flexible et la plus efficiente fiscaleme
 Roundtable simplifie la création et la gestion de votre SCSp en prenant en charge l’immatriculation, les comptes bancaires, l’onboarding des investisseurs (KYC/AML) et l’administration courante sur une plateforme unique.
 [Découvrez comment lancer votre SCSP plus rapidement.](https ://www.roundtable.eu/contact-us)
 ---
+### SPV en Allemagne {#spvs-in-germany}
+Le paysage allemand des SPV se caractérise par des structures de sociétés et de partenariats bien définies, avec un accent sur une forte limitation de responsabilité (Haftungsbeschränkung).
+Structures clés :
+* [**Gesellschaft mit beschränkter Haftung (GmbH)**](https ://www.gesetze-im-internet.de/gmbhg/)** :** Forme la plus répandue pour un SPV dédié à un projet (Projektgesellschaft), elle offre une responsabilité limitée mais est soumise à l’impôt sur les sociétés et exige [un capital minimum de 25 000 €](https ://lawyersgermany.com/the-share-capital-in-germany/).  
+* [**GmbH & Co. KG**](https ://www.gesetze-im-internet.de/hgb/)** :** Société en commandite populaire utilisant une GmbH comme associé commandité. Cette structure assure une responsabilité limitée globale tout en conservant la transparence fiscale d’un partenariat. ![][image1]
 ### SPV en Espagne {#spvs-in-spain}
+En Espagne, le Special Purpose Vehicle (SPV, entité ad hoc) est un outil courant pour les investisseurs étrangers, généralement créé comme filiale d’une société étrangère. Sa structure vise à sécuriser les actifs et à isoler l’entité espagnole de toute difficulté financière affectant la société mère, avec un accent principal sur les opérations de titrisation.
+Les principales structures utilisées pour les SPV en Espagne incluent :
+* [**Sociedad Anónima (S.A.)**](https ://www.boe.es/buscar/act.php ?id=BOE-A-2010-10544) : L’équivalent d’une société anonyme, structure généralement utilisée pour des opérations de titrisation vastes ou complexes impliquant un nombre élevé d’actifs.  
+* [**Sociedad de Responsabilidad Limitada (S.L.)**](https ://www.boe.es/buscar/act.php ?id=BOE-A-2010-10544)** :** Semblable à une LLC, forme généralement utilisée pour des opérations impliquant un nombre plus restreint d’actifs.  
+* **Fideicomiso (Trust)** : Structure de SPV très répandue dans laquelle les actifs sont détenus dans un trust qui émet directement des titres aux investisseurs.
+### Tableau comparatif des structures de SPV par région {#spv-structure-comparison-table-by-region}
+|  | France | Luxembourg | Allemagne | Royaume‑Uni | Espagne | États‑Unis |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Forme(s) juridique(s) courante(s)** | SARL, SC, SAS, SA, FCT, ST, Société de Projet | SARL, SCS, SA, SCA, SCSp | GmbH, UG, GmbH & Co. KG | Ltd, PFLP, LLP, Bare Trust | S.A., S.L., Fideicomisos (Trusts) | LLC, LP |
+| **Responsabilité typique** | Responsabilité limitée (associés/actionnaires) | Responsabilité limitée (actionnaires/associés) | Responsabilité limitée (Gesellschafter) | Responsabilité limitée (actionnaires/membres/LP) | Responsabilité limitée (actionnaires) | Responsabilité limitée (membres/LP) |
+| **Régime fiscal par défaut** | Sociétaire (SARL/SAS/SA), Transparent/Translucide (FCT) | Sociétaire (SARL/SA), Transparence fiscale (SCS/SCSp) | Sociétaire (GmbH/UG, Transparence fiscale (KG) | Sociétaire (Ltd), Transparence fiscale (autres) | Sociétaire ([exonéré pour les énergies renouvelables)](https ://www.osborneclarke.com/insights/spains-tax-authority-allows-tax-exemption-renewable-energy-projects) | Transparence fiscale (LLC/LP) |
+| **Éléments clés de constitution** | Statuts, dépôt au registre, exigences de capital | Statuts, immatriculation au RCS, acte notarié (certains cas) | Statuts notariés, immatriculation au registre, exigence de capital | Articles, immatriculation Companies House | Immatriculation comme filiale, titres devant être négociés sur un marché public. | Operating/LP Agmt, dépôt étatique |
+| **Cas d’usage typiques** | Société générale, titrisation, projets | Fonds d’investissement, holding, titrisation | Société générale, projets, holding | Immobilier, VC/PE, général | Titrisation, transfert d’actifs, projets d’infrastructure. | VC/PE, immobilier, fonds |
+| **Flexibilité/Conformité** | Flexibilité modérée/élevée (SAS), formalisme (SA) | Flexibilité élevée (SCSp), modérée (SARL) | Flexibilité modérée, conformité formelle (GmbH) | Flexibilité modérée, conformité plus élevée (Ltd) | Conformité formelle | Flexibilité élevée (LLC/LP), faible conformité |
+### SPV au Royaume‑Uni {#spvs-in-the-united-kingdom}
+Le Royaume‑Uni propose plusieurs structures juridiques distinctes pour les SPV, allant des formes sociétaires classiques à des montages plus transparents fiscalement de type partenariat et trust.
+Structures clés :
+* [**Private Limited Company (Ltd)**](https ://www.legislation.gov.uk/ukpga/2006/46/contents)** :** La forme de SPV la plus courante, offrant une responsabilité limitée mais soumise à l’Impôt sur les sociétés britannique et à davantage de conformité que les LLC américaines.  
+* [**Private Fund Limited Partnership (PFLP)**](https ://www.legislation.gov.uk/ukdsi/2017/9780111153208)** :** Choix fréquent et fiscalement transparent pour des SPV de venture capital au Royaume‑Uni, mais nécessitant un gestionnaire réglementé et des coûts administratifs plus élevés.  
+* [**Bare Trust**](https ://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem1563)** :** Structure de nominee simple et peu coûteuse où le trustee détient les actions pour les bénéficiaires. Elle est fiscalement transparente et souvent utilisée comme alternative non réglementée au partenariat. C’est aussi le seul type de SPV britannique permettant aux investisseurs de bénéficier des dispositifs fiscaux EIS, SEIS, procurant des allégements supplémentaires.
+### SPV aux États‑Unis {#spvs-in-the-united-states}
+Les États‑Unis offrent un environnement très développé et flexible pour les SPV, avec le **Delaware** comme État d’immatriculation privilégié pour la robustesse de son droit des sociétés. Le choix de l’entité vise généralement à concilier une forte protection en responsabilité et une efficacité de transparence fiscale (pass‑through).
+Structures clés :
+* [**Limited Liability Company (LLC)**](https ://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)** :** Le choix le plus répandu pour les SPV de venture capital, d’immobilier et de private equity, offrant une grande flexibilité contractuelle.  
+* [**Limited Partnership (LP)**](https ://www.irs.gov/businesses/partnerships)** :** Structure fréquente pour les fonds d’investissement et les opérations internationales, procurant une responsabilité limitée aux investisseurs.  
+* [**Trusts and Corporations**](https ://www.irs.gov/charities-non-profits/definition-of-a-trust)** :** Utilisés pour des usages plus spécifiques, par exemple les titrisations (Trusts) ou comme entités « blocker » pour des investisseurs sensibles à la fiscalité (C‑corps).
+La réglementation est principalement supervisée par la SEC. Les SPV doivent se conformer au droit des valeurs mobilières, qui limite souvent le nombre d’investisseurs et exige qu’ils soient des « investisseurs accrédités ».
+
 En Espagne, le Special Purpose Vehicle (SPV, entité ad hoc) est un outil courant pour les investisseurs étrangers, généralement créé comme filiale d’une société étrangère. Sa structure vise à sécuriser les actifs et à isoler l’entité espagnole de toute difficulté financière affectant la société mère, avec un accent principal sur les opérations de titrisation.
 Les principales structures utilisées pour les SPV en Espagne incluent :
 * [**Sociedad Anónima (S.A.)**](https ://www.boe.es/buscar/act.php ?id=BOE-A-2010-10544) : L’équivalent d’une société anonyme, structure généralement utilisée pour des opérations de titrisation vastes ou complexes impliquant un nombre élevé d’actifs.  
@@ -364,35 +379,35 @@ La plateforme tout‑en‑un de Roundtable couvre de bout en bout la création e
 [Découvrez comment démarrer dès aujourd’hui en échangeant avec l’un de nos experts.](https ://www.roundtable.eu/contact-us)
 ## Quelle est la meilleure plateforme SPV ? {#whats-the-best-spv-platform}
 Un nouvel écosystème de plateformes technologiques a émergé pour simplifier la création et la gestion de SPV. Leurs atouts et modèles tarifaires diffèrent, couvrant des besoins variés, des syndications d’anges lançant leur premier deal aux gérants professionnels recherchant une administration de niveau institutionnel.
-### AngelList {#angellist}
-Pionnier du secteur, [AngelList](https ://www.angellist.com/) est une plateforme américaine (Delaware) optimisée pour le **venture et l’angel investing**. Sa force clé est son vaste réseau de LP, ce qui en fait un choix idéal pour les leads de syndication centrés sur les startups tech. La plateforme est connue pour sa **vitesse** (mise en place en ~ 1 semaine) et sa **tarification forfaitaire** standardisée d’environ 8 000 $ par SPV.
-### Carta {#carta}
-[Carta](https ://carta.com/) propose un service complet **d’administration de fonds de bout en bout** pour les GP professionnels et les sociétés de VC établies. La plateforme supporte des structures **US et internationales** (via l’acquisition de Vauban) et gère des fonds complexes et personnalisés nécessitant une administration continue. La tarification est **sur devis** au niveau entreprise.
 ### Roundtable {#roundtable}
 [Roundtable](https ://www.roundtable.eu/) est une plateforme européenne de premier plan, spécialisée dans **l’angel investing transfrontalier**. Idéale pour les **fondateurs de startups européens, les [clubs d’investissement](https ://www.roundtable.eu/solutions/investors)** et les gérants, avec une présence dans des juridictions clés comme le Luxembourg et la France. La tarification est indexée sur l’opération, à **1 % des fonds levés** (minimum 5 000 €), avec des délais de mise en place rapides et une approche communautaire.
 ### bunch {#bunch}
 [bunch](https ://www.bunch.capital/) est une plateforme **basée en Allemagne**, tout‑en‑un pour les marchés privés, conçue pour les **gérants professionnels investissant en Europe de manière transfrontalière**. Elle fournit une suite complète d’outils numériques pour gérer la complexité réglementaire européenne. Tarification **entreprise sur mesure**, adaptée aux besoins du fonds.
+### Odin {#odin}
+[Odin](https ://www.joinodin.com/) est une plateforme **basée au Royaume‑Uni** au service des **syndications d’anges en Europe**. Elle propose une tarification rapide **par opération** et permet aussi de créer des **fund feeder vehicles** pour agréger des investisseurs vers de plus grands fonds de VC.
+### AngelList {#angellist}
+Pionnier du secteur, [AngelList](https ://www.angellist.com/) est une plateforme américaine (Delaware) optimisée pour le **venture et l’angel investing**. Sa force clé est son vaste réseau de LP, ce qui en fait un choix idéal pour les leads de syndication centrés sur les startups tech. La plateforme est connue pour sa **vitesse** (mise en place en ~ 1 semaine) et sa **tarification forfaitaire** standardisée d’environ 8 000 $ par SPV.
+### Carta {#carta}
+[Carta](https ://carta.com/) propose un service complet **d’administration de fonds de bout en bout** pour les GP professionnels et les sociétés de VC établies. La plateforme supporte des structures **US et internationales** (via l’acquisition de Vauban) et gère des fonds complexes et personnalisés nécessitant une administration continue. La tarification est **sur devis** au niveau entreprise.
+### Flow (Apex) {#flow-apex}
+Désormais au sein d’Apex Group, [Flow](https ://flowinc.com/) est une plateforme de niveau institutionnel, centrée principalement sur le **marché américain**. Elle vise une **expérience à forte valeur** pour des SPV et des fonds de grande taille avec de nombreux LP. Tarification **entreprise sur mesure**, en ligne avec son positionnement institutionnel.
 ### Allocations {#allocations}
 [Allocations](https ://www.allocations.com/), plateforme américaine (Delaware), met en avant **la rapidité et la simplicité**, affirmant être l’un des moyens les plus rapides de lancer un SPV. Conçue pour **exécuter des deals rapidement**, elle convient aux syndicateurs fréquents qui privilégient la vitesse. Modèle de **tarification premium**, avec un SPV standard à partir de ~ 10 000 $.
 ### Sydecar {#sydecar}
 [Sydecar](https ://www.sydecar.io/) est une plateforme américaine (Delaware) proposant une solution **peu coûteuse et automatisée**. Avec un minimum de ~ 4 500 $, elle convient aux **nouveaux gérants sensibles aux coûts** et à ceux qui exécutent **de petits deals** où des frais élevés seraient prohibitifs.
-### Flow (Apex) {#flow-apex}
-Désormais au sein d’Apex Group, [Flow](https ://flowinc.com/) est une plateforme de niveau institutionnel, centrée principalement sur le **marché américain**. Elle vise une **expérience à forte valeur** pour des SPV et des fonds de grande taille avec de nombreux LP. Tarification **entreprise sur mesure**, en ligne avec son positionnement institutionnel.
-### Odin {#odin}
-[Odin](https ://www.joinodin.com/) est une plateforme **basée au Royaume‑Uni** au service des **syndications d’anges en Europe**. Elle propose une tarification rapide **par opération** et permet aussi de créer des **fund feeder vehicles** pour agréger des investisseurs vers de plus grands fonds de VC.
 ### Securitize {#securitize}
 [Securitize](https ://securitize.io/) est un acteur plus récent, focalisé sur la **tokenisation d’actifs**, et non sur la création traditionnelle de SPV. Son produit principal est la création de **securities tokenisées** pour permettre la détention fractionnée et offrir de la liquidité via son propre marché secondaire (ATS). Le processus est plus long (1‑3+ mois) et la tarification **plus élevée et sur devis** en raison de la complexité.
 ### Tableau comparatif des prestataires SPV {#spv-provider-comparison-table}
 | Plateforme | Région | Forces clés | Tokenisation | Vitesse de lancement | Tarification | Idéal pour |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **[AngelList](https ://www.angellist.com/)** | États‑Unis (Delaware) | Venture & angel investing, grand réseau de LP | Limité. Peut détenir des crypto via le partenariat **CoinList**, mais pas de tokenisation d’actifs. | Rapide (~ 1 semaine) | Forfait de 8 000 $ + frais réglementaires d’État forfaitaires de 2 000 $, options en sus | Opérations en actions de startups tech, leads de syndication recherchant l’accès aux LP |
-| **[Carta](https ://carta.com/uk/en/fund-management/spv/)** | États‑Unis & International (via **Vauban**) | Administration de fonds de bout en bout, personnalisation | Non | Modérée (jours à semaines) | Sur devis selon l’opération | GP professionnels, sociétés de VC nécessitant une administration continue |
 | **[Roundtable](https ://www.roundtable.eu/)** | Spécialisation UE (France, Belgique, Pays‑Bas, Luxembourg), Global selon pays | Angel investing européen transfrontalier | Non | Rapide aux standards UE (~ 1 semaine) | 1 % des fonds levés (min. 5 000 €) | Fondateurs européens, clubs d’investissement, gérants de fonds |
 | **[bunch](https ://www.bunch.capital/private-investors)** | UE (basée en Allemagne, expansion au Luxembourg) | Plateforme tout‑en‑un pour marchés privés | Non | Variable (jours à semaines) | Prix sur mesure/entreprise selon l’opération | Gérants avec investissements européens transfrontaliers |
+| **[Odin](https ://www.joinodin.com/education-centre/spv-startup-investing)** | Royaume‑Uni | Syndications d’anges en Europe | Non | Rapide | Frais par opération | Angel investing au Royaume‑Uni/en Europe, fund feeder vehicles |
+| **[AngelList](https ://www.angellist.com/)** | États‑Unis (Delaware) | Venture & angel investing, grand réseau de LP | Limité. Peut détenir des crypto via le partenariat **CoinList**, mais pas de tokenisation d’actifs. | Rapide (~ 1 semaine) | Forfait de 8 000 $ + frais réglementaires d’État forfaitaires de 2 000 $, options en sus | Opérations en actions de startups tech, leads de syndication recherchant l’accès aux LP |
+| **[Carta](https ://carta.com/uk/en/fund-management/spv/)** | États‑Unis & International (via **Vauban**) | Administration de fonds de bout en bout, personnalisation | Non | Modérée (jours à semaines) | Sur devis selon l’opération | GP professionnels, sociétés de VC nécessitant une administration continue |
+| **[Flow (Apex)](https ://flowinc.com/spvs)** | Principalement États‑Unis | Expérience LP à forte valeur | Non | Modérée | Tarification entreprise | SPV/fonds de grande taille avec de nombreux LP |
 | **[Allocations](https ://www.allocations.com/real-estate-spv)** | États‑Unis (Delaware) | Vitesse et simplicité | Option pour des SPV crypto/DeFi, actifs non tokenisés | Rapide | À partir de 9 950 $ pour un SPV « standard » | Exécution rapide, syndicateurs fréquents |
 | **[Sydecar](https ://www.sydecar.io/spv)** | États‑Unis (Delaware) | Automatisation à coût réduit | Non | Très rapide (jours) | 2 % du capital levé (4 500 $ – 12 500 $) | Nouveaux gérants sensibles aux coûts, petits tickets |
-| **[Flow (Apex)](https ://flowinc.com/spvs)** | Principalement États‑Unis | Expérience LP à forte valeur | Non | Modérée | Tarification entreprise | SPV/fonds de grande taille avec de nombreux LP |
-| **[Odin](https ://www.joinodin.com/education-centre/spv-startup-investing)** | Royaume‑Uni | Syndications d’anges en Europe | Non | Rapide | Frais par opération | Angel investing au Royaume‑Uni/en Europe, fund feeder vehicles |
 | **Securitize** | États‑Unis & Global | Investissements tokenisés, liquidité potentielle | Oui (cœur de l’offre) | Plus long (1‑3+ mois) | Plus élevé, sur mesure | Fractionnement d’actifs numériques, marché secondaire |
 ## Et après pour les SPV : tendances à venir  {#whats-next-for-spvs-future-trends}
 Le Special Purpose Vehicle n’est pas un outil statique ; il évolue en continu pour répondre aux nouvelles demandes du marché et aux possibilités technologiques. Les tendances émergentes indiquent un futur où les SPV seront plus intégrés technologiquement, orientés finalité et standardisés, tout en répondant à des exigences accrues de transparence.
