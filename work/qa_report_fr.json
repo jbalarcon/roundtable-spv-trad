@@ -1,0 +1,44 @@
+{
+  "qa_version": "v1",
+  "model": "claude-sonnet-4-20250514",
+  "chunks_reviewed": 3,
+  "summary": {
+    "total_blocks": 379,
+    "total_errors": 9,
+    "total_warnings": 55,
+    "critical_issues": [
+      "Systematic missing U+202F (narrow no-break space) before French punctuation : ; ! ?",
+      "Typo in chunk 003: 'SVP' instead of 'SPV' in block a144005372"
+    ]
+  },
+  "results": [
+    {
+      "chunk_id": "001",
+      "overall_status": "warn",
+      "issues": [
+        {"type": "typography", "severity": "error", "detail": "Missing U+202F before : in headings"},
+        {"type": "typography", "severity": "error", "detail": "Missing U+202F before ? in headings"},
+        {"type": "typography", "severity": "error", "detail": "Missing U+202F before % throughout"},
+        {"type": "termbase", "severity": "warning", "detail": "Inconsistent SPV/véhicule ad hoc notation"}
+      ],
+      "stats": {"blocks_checked": 135, "errors": 8, "warnings": 4}
+    },
+    {
+      "chunk_id": "002",
+      "overall_status": "warn",
+      "issues": [
+        {"type": "typography", "severity": "warning", "detail": "Systematic missing U+202F before : in bold list items"}
+      ],
+      "stats": {"blocks_checked": 102, "errors": 0, "warnings": 39}
+    },
+    {
+      "chunk_id": "003",
+      "overall_status": "warn",
+      "issues": [
+        {"type": "dnt", "severity": "error", "detail": "Typo: 'SVP' should be 'SPV' in block a144005372"},
+        {"type": "typography", "severity": "warning", "detail": "Missing U+202F before ? in headings"}
+      ],
+      "stats": {"blocks_checked": 142, "errors": 1, "warnings": 12}
+    }
+  ]
+}
