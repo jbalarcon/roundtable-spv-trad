@@ -1,0 +1,67 @@
+Token,Reason
+SPV,Key term/acronym; keep casing
+SPE,Key term/acronym; keep casing
+SPAC,Key term/acronym; keep casing
+LBO,Key term/acronym; keep casing
+IPO,Key term/acronym; keep casing
+GP,Key term/acronym; keep casing
+LP,Key term/acronym; keep casing
+NAV,Key term/acronym; keep casing
+IRR,Key term/acronym; keep casing
+MOIC,Key term/acronym; keep casing
+KYC,Key term/acronym; keep casing
+AML,Key term/acronym; keep casing
+LCB-FT,Key term/acronym; keep casing
+FATCA,Key term/acronym; keep casing
+CRS,Key term/acronym; keep casing
+AIFMD,Key term/acronym; keep casing
+BEPS,Key term/acronym; keep casing
+PPP,Key term/acronym; keep casing
+ABS,Key term/acronym; keep casing
+DAO,Key term/acronym; keep casing
+ESG,Key term/acronym; keep casing
+Up‑C,Key term/acronym; keep casing
+LLC,Key term/acronym; keep casing
+LP,Key term/acronym; keep casing
+Ltd,Key term/acronym; keep casing
+PFLP,Key term/acronym; keep casing
+Bare Trust,Key term/acronym; keep casing
+Trust,Key term/acronym; keep casing
+Series LLC,Key term/acronym; keep casing
+SPC,Key term/acronym; keep casing
+SAS,Key term/acronym; keep casing
+SC,Key term/acronym; keep casing
+OT,Key term/acronym; keep casing
+FCT,Key term/acronym; keep casing
+GmbH,Key term/acronym; keep casing
+GmbH & Co. KG,Key term/acronym; keep casing
+SARL,Key term/acronym; keep casing
+SCSp,Key term/acronym; keep casing
+SCS,Key term/acronym; keep casing
+SCA,Key term/acronym; keep casing
+S.A.,Key term/acronym; keep casing
+S.L.,Key term/acronym; keep casing
+Roundtable,Key term/acronym; keep casing
+AngelList,Key term/acronym; keep casing
+Carta,Key term/acronym; keep casing
+bunch,Key term/acronym; keep casing
+Allocations,Key term/acronym; keep casing
+Sydecar,Key term/acronym; keep casing
+Flow,Key term/acronym; keep casing
+Apex,Key term/acronym; keep casing
+Odin,Key term/acronym; keep casing
+Securitize,Key term/acronym; keep casing
+CoinList,Key term/acronym; keep casing
+SEC,Key term/acronym; keep casing
+OECD,Key term/acronym; keep casing
+IRS,Key term/acronym; keep casing
+non‑petition,Key term/acronym; keep casing
+limited recourse,Key term/acronym; keep casing
+true sale,Key term/acronym; keep casing
+separateness covenants,Key term/acronym; keep casing
+carried interest,Key term/acronym; keep casing
+blind‑pool,Key term/acronym; keep casing
+cap table,Key term/acronym; keep casing
+Delaware,Key term/acronym; keep casing
+Luxembourg,Key term/acronym; keep casing
+Cayman Islands,Key term/acronym; keep casing

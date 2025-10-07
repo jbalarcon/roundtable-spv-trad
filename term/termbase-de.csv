@@ -1,0 +1,138 @@
+en_term,de_term,pos,notes,domain
+Special Purpose Vehicle (SPV),Zweckgesellschaft (SPV),noun,Core term; keep acronym SPV in German usage.,finance/legal
+Special Purpose Entity (SPE),Zweckgesellschaft (SPE),noun,Synonym of SPV; acronym often kept.,finance/legal
+bankruptcy remoteness,Insolvenzferne,noun,Degree to which an entity is insulated from a sponsor’s insolvency.,legal
+bankruptcy-remote,insolvenzfern,adjective,Attribute describing insulation from sponsor bankruptcy.,legal
+ring-fencing,Vermögenstrennung (Ringfencing),noun,Keeping assets and liabilities segregated; 'Ringfencing' often left in English.,legal
+isolate financial risk,finanzielle Risiken isolieren,verb,General description of risk segregation.,finance
+pass-through entity,steuerlich transparente Einheit,noun,Entity where taxation occurs at investor level.,tax
+pass-through taxation,transparente Besteuerung,noun,Tax flows to investors instead of entity.,tax
+double taxation,Doppelbesteuerung,noun,Taxed at entity and investor levels.,tax
+tax-friendly jurisdiction,steuergünstige Jurisdiktion,noun,Jurisdiction chosen for favorable tax treatment.,tax
+capital structure,Kapitalstruktur,noun,Debt/equity mix.,finance
+equity,Eigenkapital,noun,Owners’ capital.,finance
+orphan structure,Orphan‑Struktur,noun,Ownership held by independent third party.,legal
+independent third party,unabhängige Drittpartei,noun,Non-affiliated owner/trustee.,legal
+beneficial ownership,wirtschaftliches Eigentum,noun,Ultimate ownership/control interests.,legal
+beneficial owner,wirtschaftlich Berechtigter,noun,Person controlling/benefiting from entity.,legal
+financial reporting,Finanzberichterstattung,noun,"Periodic NAV, IRR, audit, etc.",accounting
+Net Asset Value (NAV),Nettoinventarwert (NAV),noun,Key fund/SPV metric; keep acronym.,finance
+Internal Rate of Return (IRR),Interner Zinsfuß (IRR),noun,Performance metric; keep acronym.,finance
+Multiple on Invested Capital (MOIC),Multiple des investierten Kapitals (MOIC),noun,Performance metric; keep acronym.,finance
+off-balance sheet,außerbilanziell,adjective,Not consolidated on sponsor’s balance sheet.,accounting
+consolidation,Konsolidierung,noun,Combining SPV with sponsor under accounting rules.,accounting
+consolidation tests,Konsolidierungsprüfung,noun,IFRS/US‑GAAP control assessment.,accounting
+IFRS 10,IFRS 10,proper-noun,International standard on consolidated financial statements.,accounting
+US GAAP,US‑GAAP,proper-noun,U.S. accounting standards.,accounting
+ASC 810,ASC 810,proper-noun,U.S. GAAP consolidation guidance.,accounting
+Limited Liability Company (LLC),"LLC (haftungsbeschränkte Gesellschaft, US)",proper-noun,U.S. entity often tax‑transparent; keep acronym.,legal
+Limited Partnership (LP),"Limited Partnership (Kommanditgesellschaft, LP)",proper-noun,Keep acronym in VC context.,legal
+Corporation,Kapitalgesellschaft,noun,General corporate form.,legal
+Trust,Treuhand,noun,Legal arrangement with trustee/beneficiaries.,legal
+Private Limited Company (Ltd),Private Limited Company (Ltd),proper-noun,UK company form; keep 'Ltd'.,legal
+Private Fund Limited Partnership (PFLP),Private Fund Limited Partnership (PFLP),proper-noun,UK fund partnership; keep acronym.,legal
+Bare Trust,Bare Trust (einfaches Treuhandverhältnis),proper-noun,UK nominee-style trust.,legal
+Société par Actions Simplifiée (SAS),Société par Actions Simplifiée (SAS),proper-noun,French corporate form; keep acronym.,legal
+Société Civile (SC),Société Civile (SC),proper-noun,French partnership; tax‑translucent.,legal
+Organisme de Titrisation (OT),Organisme de Titrisation (OT),proper-noun,French securitization vehicle.,legal
+Fonds Commun de Titrisation (FCT),Fonds Commun de Titrisation (FCT),proper-noun,French securitization fund.,legal
+Société à responsabilité limitée (SARL),Société à responsabilité limitée (SARL),proper-noun,Luxembourg/FR company form.,legal
+Société en commandite spéciale (SCSp),Société en commandite spéciale (SCSp),proper-noun,Luxembourg special limited partnership.,legal
+Société en commandite simple (SCS),Société en commandite simple (SCS),proper-noun,Luxembourg simple limited partnership.,legal
+Société en commandite par actions (SCA),Société en commandite par actions (SCA),proper-noun,Luxembourg partnership limited by shares.,legal
+Gesellschaft mit beschränkter Haftung (GmbH),GmbH,proper-noun,German limited liability company.,legal
+GmbH & Co. KG,GmbH & Co. KG,proper-noun,German KG with GmbH as GP.,legal
+Series LLC,Series LLC,proper-noun,US series structure; ring‑fenced cells.,legal
+Segregated Portfolio Company (SPC),Segregated Portfolio Company (SPC),proper-noun,Offshore vehicle with ring‑fenced portfolios.,legal
+sponsor,Sponsor,noun,Entity creating the SPV.,finance/legal
+investor,Investor,noun,Capital provider to SPV.,finance
+Limited Partner (LP),Limited Partner (LP),proper-noun,VC/PE investor class; anglicism preferred.,finance
+General Partner (GP),General Partner (GP),proper-noun,Managing partner; anglicism preferred.,finance
+syndicate lead,Syndikatführer,noun,Organizer/manager of angel syndicate.,finance
+target company,Zielunternehmen,noun,Company receiving the investment.,finance
+trustee,Treuhänder,noun,Independent owner/representative.,legal
+servicer,Servicer,noun,Operational service provider in securitization.,finance
+SPV administrator,SPV‑Administrator,noun,Back‑office and compliance functions.,finance
+independent director,unabhängiger Director,noun,Director with veto on insolvency.,legal
+carried interest,Carried Interest (Gewinnbeteiligung),noun,Share of profits paid to GP/sponsor.,finance
+pro-rata rights,Pro‑rata‑Rechte,noun,Right to participate proportionally in follow‑ons.,finance
+continuation fund,Continuation Fund,noun,Vehicle to hold asset beyond fund term.,finance
+angel syndicate,Angel‑Syndikat,noun,Group of angels investing together.,finance
+sidecar investment,Sidecar‑Investment,noun,Co‑investment alongside main fund.,finance
+blind-pool fund,Blindpool‑Fonds,noun,Fund without pre‑identified targets.,finance
+memorandum and articles of association,Satzung (Memorandum and Articles of Association),noun,Constitutional corporate documents.,legal
+partnership agreement,Gesellschaftsvertrag,noun,LP agreement defining terms.,legal
+registered agent,Registered Agent,noun,Statutory agent for service of process.,legal
+Tax Identification Number (TIN),Steueridentifikationsnummer (TIN),noun,Entity’s tax ID.,tax
+accredited investor,akkreditierter Anleger,noun,US securities law category.,legal
+subscription agreement,Zeichnungsvertrag,noun,Investor agreement to subscribe securities.,legal
+asset transfer,Asset‑Transfer,noun,Transfer of core assets into SPV.,legal
+true sale,echter Forderungsverkauf (True Sale),noun,Sale structured to withstand insolvency challenge.,legal
+waterfall (priority of payments),Cashflow‑Wasserfall,noun,Contractual order of distributions.,finance
+limited-recourse clause,Limited‑Recourse‑Klausel (beschränkter Rückgriff),noun,Creditor recourse limited to SPV assets.,legal
+non-petition clause,Non‑Petition‑Klausel (Nichtantragstellung),noun,Creditors agree not to file for SPV bankruptcy.,legal
+separateness covenants,Separationszusagen,noun,Operational independence undertakings.,legal
+commingling,Vermögensvermischung,noun,Mixing assets/cash; to be avoided.,legal
+withholding tax,Quellensteuer,noun,Tax withheld at source on cross‑border payments.,tax
+economic substance,wirtschaftliche Substanz,noun,Genuine local presence to meet tax rules.,tax
+local director,lokaler Director,noun,Director resident in jurisdiction.,legal
+liquidity,Liquidität,noun,Ease of secondary sale.,finance
+secondary market,Sekundärmarkt,noun,Trading of existing securities.,finance
+redemption rights,Rücknahmerechte,noun,Investor right to redeem shares/units.,legal
+shell company,Mantelgesellschaft,noun,Company without active operations.,legal
+IPO,Börsengang (IPO),noun,Initial Public Offering.,finance
+leverage buyout (LBO),Leveraged Buyout (LBO),noun,Debt‑financed acquisition.,finance
+acquisition debt,Akquisitionsfinanzierung,noun,Debt raised to acquire target.,finance
+securitization,Verbriefung,noun,Packaging assets into tradable securities.,finance
+asset-backed securities (ABS),forderungsbesicherte Wertpapiere (ABS),noun,ABS; keep acronym.,finance
+securitized assets,verbriefte Vermögenswerte,noun,Assets sold to SPV and securitized.,finance
+investor reporting,Investorenberichterstattung,noun,NAV/IRR/MOIC and updates.,accounting
+audit,Abschlussprüfung,noun,Annual audit under IFRS or US‑GAAP.,accounting
+compliance filings,Compliance‑Meldungen,noun,Regulatory filings and updates.,legal
+franchise tax,Franchisesteuer,noun,"State‑level tax (e.g., Delaware).",tax
+beneficial ownership updates,Aktualisierung der wirtschaftlich Berechtigten,noun,Register updates.,legal
+due diligence,Due Diligence,noun,Investor and deal checks.,finance
+KYC,KYC (Know Your Customer),proper-noun,Identity checks; keep acronym.,compliance
+AML,AML (Anti‑Money Laundering),proper-noun,Anti‑money‑laundering checks; keep acronym.,compliance
+FATCA,FATCA,proper-noun,US Foreign Account Tax Compliance Act.,compliance/tax
+CRS,CRS,proper-noun,OECD Common Reporting Standard.,compliance/tax
+AIFMD,AIFMD,proper-noun,EU Alternative Investment Fund Managers Directive.,regulatory
+BEPS,BEPS,proper-noun,OECD Base Erosion and Profit Shifting.,tax
+CFC rules,CFC‑Regeln,noun,Controlled Foreign Corporation rules.,tax
+SEC,SEC,proper-noun,US Securities and Exchange Commission.,regulatory
+CSSF,CSSF,proper-noun,Luxembourg regulator.,regulatory
+AFM,AFM,proper-noun,Dutch regulator.,regulatory
+investment vehicle,Investitionsvehikel,noun,SPV used to pool capital for a deal.,finance
+project company,Projektgesellschaft,noun,"SPV for a single project (PPP, real estate).",legal
+intermediate SPV,Intermediäres SPV,noun,Holds assets to separate from parent.,legal
+jurisdictional shell company,Jurisdiktionale Mantelgesellschaft,noun,Entity to leverage tax/regulatory benefits.,legal
+SPAC,SPAC (Zweckakquisitionsgesellschaft),proper-noun,IPO shell to acquire a private company.,finance
+investment fund,Investmentfonds,noun,Traditional diversified fund.,finance
+capital calls,Kapitalabrufe,noun,Periodic funding requests by fund.,finance
+management fee,Managementgebühr,noun,Annual fee charged by manager.,finance
+minimum investment,Mindestanlage,noun,Smallest acceptable ticket.,finance
+investor access,Investorenzugang,noun,Ability to participate in deals.,finance
+tokenization,Tokenisierung,noun,Digitizing securities on blockchain.,finance/tech
+digital securities,digitale Wertpapiere,noun,Tokenized representation of securities.,finance/tech
+Decentralized Autonomous Organization (DAO),Decentralized Autonomous Organization (DAO),proper-noun,On‑chain governance structure.,tech
+ESG,ESG,proper-noun,"Environmental, Social, Governance.",finance
+green bond,grüne Anleihe,noun,Bond for environmentally beneficial projects.,finance
+Social Impact Bond,Social Impact Bond,proper-noun,Outcome‑linked financing instrument.,finance
+standardization,Standardisierung,noun,Use of model docs and templates.,legal
+shelf company,Vorratsgesellschaft,noun,Pre‑incorporated company for quick use.,legal
+cap table,Kapitalisierungstabelle (Cap Table),noun,Often kept as 'Cap Table' in German usage.,finance
+cap table line item,Zeile in der Cap Table,noun,Single entry representing SPV.,finance
+founder simplicity,Gründerfreundliche Vereinfachung,noun,Single investor entity instead of many.,finance
+follow-on investment,Folgeinvestition,noun,Additional investment in an existing portfolio company.,finance
+pro rata,Pro‑rata,noun,Proportional share based on prior ownership.,finance
+carry,Carry,noun,Short for carried interest; anglicism used in DE.,finance
+fundraising,Fundraising,noun,Capital raising for deals/funds.,finance
+onboarding,Onboarding,noun,Digital investor intake process.,operations
+KYC/AML checks,KYC/AML‑Prüfungen,noun,Identity and AML controls.,compliance
+registered office,eingetragener Sitz,noun,Legal seat/address of entity.,legal
+compliance burden,Compliance‑Aufwand,noun,Ongoing obligations and filings.,legal
+expense allocation,Kostenallokation,noun,Split of costs between SPV and manager.,accounting
+capital gains tax,Kapitalertragsteuer/Kapitalgewinnsteuer,noun,Varies by jurisdiction; term choice is jurisdiction‑dependent.,tax
+Real Estate SPV,Immobilien‑SPV,noun,SPV holding a property/portfolio.,finance/real estate
+holding company,Holdinggesellschaft,noun,Parent company owning shares.,legal
+continuation vehicle,Continuation Vehicle,noun,Vehicle to extend holding period.,finance
