@@ -1,0 +1,445 @@
+{
+  "meta": {
+    "chunk_id": "002",
+    "source": "work/article.prepped.en.md",
+    "approx_tokens": 6145,
+    "schema": "v1"
+  },
+  "blocks": [
+    {
+      "id": "",
+      "md_type": "paragraph_or_misc",
+      "source_md": "and more deal-by-deal control than a traditional fund offers.  \n* **Manager (GP or Syndicate Lead):** The manager is the individual or firm that **sources the deal, organizes the SPV, and manages it on behalf of investors.** They are responsible for all operational aspects, from investment decisions to investor reporting, and are compensated through management fees and carried interest (a share of the profits).  \n* **Target company:** The company that **receives the investment from the SPV**. For founders, the primary benefit is a simplified capitalization table, as the SPV consolidates many individual investors into a single line item, reducing administrative work.  \n* **Service providers:** A network of professionals provides essential support. This includes **law firms** for legal structuring, **accountants** for tax and financial reporting, banks for holding funds, and specialized **SPV administrators** for back-office management and compliance.  \n* **Regulators:** Government agencies (like the SEC in the US) set the **legal framework** for SPVs. They enforce securities and tax laws and often place limits on the number and type of investors who can participate in an offering."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "## Legal forms for SPVs by country {#legal-forms-for-spvs-by-country}"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in the United States {#spvs-in-the-united-states}"
+    },
+    {
+      "id": "9231712d77",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The US offers a highly developed and flexible environment for SPVs, with **Delaware** being the favored state of incorporation for its robust corporate law. The choice of entity is typically driven by the need to balance strong liability protection with pass-through tax efficiency."
+    },
+    {
+      "id": "b566bac6bf",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures include:"
+    },
+    {
+      "id": "56c9605fe0",
+      "md_type": "list_candidate",
+      "source_md": "* [**Limited Liability Company (LLC)**](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc)**:** The most popular choice for venture capital, real estate, and private equity SPVs, offering high contractual flexibility.  \n* [**Limited Partnership (LP)**](https://www.irs.gov/businesses/partnerships)**:** A prevalent structure for investment funds and international deals, providing limited liability to investors.  \n* [**Trusts and Corporations**](https://www.irs.gov/charities-non-profits/definition-of-a-trust)**:** Used for more niche purposes, such as securitizations (Trusts) or as \"blocker\" entities for tax-sensitive investors (C-corps)."
+    },
+    {
+      "id": "54c015df54",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Regulation is primarily overseen by the SEC. SPVs must comply with securities laws, which often restrict the number of investors and require them to be \"accredited investors\"."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in the United Kingdom {#spvs-in-the-united-kingdom}"
+    },
+    {
+      "id": "b4d3825f0e",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The UK provides several distinct legal structures for SPVs, ranging from traditional corporate forms to more tax-transparent partnership and trust arrangements."
+    },
+    {
+      "id": "b566bac6bf",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures include:"
+    },
+    {
+      "id": "8e089d9d03",
+      "md_type": "list_candidate",
+      "source_md": "* [**Private Limited Company (Ltd)**](https://www.legislation.gov.uk/ukpga/2006/46/contents)**:** The most frequent SPV form, providing limited liability but subject to UK Corporation Tax and more compliance than US LLCs.  \n* [**Private Fund Limited Partnership (PFLP)**](https://www.legislation.gov.uk/ukdsi/2017/9780111153208)**:** A common tax-transparent choice for UK venture capital SPVs, though it requires a regulated manager and has higher administrative costs.  \n* [**Bare Trust**](https://www.gov.uk/hmrc-internal-manuals/trusts-settlements-and-estates-manual/tsem1563)**:** A simple, low-cost nominee structure where the trustee holds shares for beneficiaries. It is tax-transparent and often used as an unregulated alternative to partnership. It’s also the only type of UK SPV which allows investors to benefit from EIS, SEIS tax relief schemes, providing additional tax reliefs."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in France {#spvs-in-france}"
+    },
+    {
+      "id": "e9527e2ddb",
+      "md_type": "paragraph_or_misc",
+      "source_md": "In France, SPVs can be structured using a range of corporate and partnership vehicles, with a growing preference for more flexible corporate forms. France also has highly specialized, bankruptcy-remote vehicles for securitization."
+    },
+    {
+      "id": "b566bac6bf",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures include:"
+    },
+    {
+      "id": "91a0fb8a3d",
+      "md_type": "list_candidate",
+      "source_md": "* [**Société par Actions Simplifiée (SAS)**](https://entreprendre.service-public.fr/vosdroits/F37366#:~:text=La%20soci%C3%A9t%C3%A9%20par%20actions%20simplifi%C3%A9e,ou%20dont%20le%20titre%20est)**:** An increasingly popular and flexible corporate form offering limited liability and significant freedom in governance.  \n* [**Société Civile (SC)**](https://entreprendre.service-public.fr/vosdroits/F37366)**:** A tax-translucid partnership (taxed at investor level, rather than company level) commonly used for real estate, though partners face unlimited liability for the entity's obligations.   \n* [**Organisme de Titrisation (OT)**](https://www.labase-lextenso.fr/ouvrage/9782306001684-1161)**:** A specialized, tax-efficient vehicle for securitization. In its fund form (FCT), it has no legal personality but is [bankruptcy-remote by statute](https://www.google.com/url?q=https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035726499&sa=D&source=docs&ust=1750689183612508&usg=AOvVaw3m3-gkc0riVknbGcpKIfki)."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "#### SAS vs SC for SPVs {#sas-vs-sc-for-spvs}"
+    },
+    {
+      "id": "49406ea03b",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Roundtable offers both **Société par Actions Simplifiée (SAS)** and **Société Civile (SC)** as primary SPV structures in France due to their tax-translucent nature, meaning the SPV itself is not taxed at the corporate level."
+    },
+    {
+      "id": "99423b4f6f",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Instead, **profits and capital gains are taxed once, directly in the hands of investors**, according to their personal tax regime. This structure **avoids the double taxation** often found in standard corporate entities, so in most cases investors can retain a larger share of net returns."
+    },
+    {
+      "id": "27ea2cebb7",
+      "md_type": "list_candidate",
+      "source_md": "**Read more about [French SPV taxation](https://www.roundtable.eu/blog/fr/la-fiscalite-du-spv-un-aspect-trop-souvent-neglige)**"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in Germany {#spvs-in-germany}"
+    },
+    {
+      "id": "cbe35ae181",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Germany's SPV landscape is characterized by well-defined corporate and partnership structures, with a focus on providing strong limited liability (Haftungsbeschränkung)."
+    },
+    {
+      "id": "b566bac6bf",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures include:"
+    },
+    {
+      "id": "ee2b137c3e",
+      "md_type": "list_candidate",
+      "source_md": "* [**Gesellschaft mit beschränkter Haftung (GmbH)**](https://www.gesetze-im-internet.de/gmbhg/)**:** The most common form for a project-specific SPV (Projektgesellschaft), it provides limited liability but is subject to corporate tax and requires [a minimum capital of €25,000](https://lawyersgermany.com/the-share-capital-in-germany/).  \n* [**GmbH & Co. KG**](https://www.gesetze-im-internet.de/hgb/)**:** A popular limited partnership that uses a GmbH as the general partner. This structure achieves overall limited liability while retaining the pass-through tax treatment of a partnership."
+    },
+    {
+      "id": "24c53eaf55",
+      "md_type": "paragraph_or_misc",
+      "source_md": "![][image1]"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in Luxembourg {#spvs-in-luxembourg}"
+    },
+    {
+      "id": "b0a4efca13",
+      "md_type": "paragraph_or_misc",
+      "source_md": "As a major European financial hub, Luxembourg offers a diverse range of SPV structures favored for holding companies and alternative investment funds due to their flexibility and tax efficiency, with access to European markets."
+    },
+    {
+      "id": "b566bac6bf",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures include:"
+    },
+    {
+      "id": "03d8d57da5",
+      "md_type": "list_candidate",
+      "source_md": "* [**Société à responsabilité limitée (SARL)**](https://guichet.public.lu/fr/entreprises/creation-developpement/forme-juridique/societe-capitaux/sarl.html)**:** The most common form used for investment SPVs and holding companies, offering limited liability with a minimum capital of €12,000.  \n* [**Société en commandite spéciale (SCSp)**](https://www.roundtable.eu/learn/scsp)**:** A highly flexible special limited partnership that has no legal personality. It is fully tax-transparent and increasingly popular for alternative investment funds.  \n* [**SCS**](https://guichet.public.lu/en/entreprises/creation-developpement/forme-juridique/entreprise-individuelle_societe-personnes/scs.html) **and [SCA](https://guichet.public.lu/en/entreprises/creation-developpement/forme-juridique/societe-capitaux/sca.html):** The *Société en commandite simple* (SCS) is a tax-transparent limited partnership, while the *Société en commandite par actions* (SCA) is a partnership limited by shares, combining corporate and partnership features."
+    },
+    {
+      "id": "58b63e273b",
+      "md_type": "list_candidate",
+      "source_md": "---"
+    },
+    {
+      "id": "2dd8241c5d",
+      "md_type": "list_candidate",
+      "source_md": "**Launch your Luxembourg SCSp with Roundtable**"
+    },
+    {
+      "id": "2f59e26ceb",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The SCSp is Luxembourg’s most flexible and tax-efficient SPV structure, combining contractual freedom, investor privacy, and EU-wide market access. "
+    },
+    {
+      "id": "52f7f4976f",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Roundtable makes it simple to set up and manage your SCSp by handling incorporation, bank accounts, investor onboarding (KYC/AML), and ongoing administration on a single platform. "
+    },
+    {
+      "id": "47d0a7fd48",
+      "md_type": "paragraph_or_misc",
+      "source_md": "[Find out how you can get your SCSP off the ground faster.](https://www.roundtable.eu/contact-us)"
+    },
+    {
+      "id": "58b63e273b",
+      "md_type": "list_candidate",
+      "source_md": "---"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPVs in Spain {#spvs-in-spain}"
+    },
+    {
+      "id": "24ac3512ba",
+      "md_type": "paragraph_or_misc",
+      "source_md": "In Spain, the Special Purpose Vehicle (SPV) is a common tool for foreign investors, typically established as a subsidiary of a foreign company. Its structure is designed to secure assets and isolate the Spanish entity from any financial distress affecting the parent company, with a primary focus on securitization transactions."
+    },
+    {
+      "id": "c002322596",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Key structures used for SPVs in Spain include:"
+    },
+    {
+      "id": "120470a361",
+      "md_type": "list_candidate",
+      "source_md": "* [**Sociedad Anónima (S.A.)**](https://www.boe.es/buscar/act.php?id=BOE-A-2010-10544): The equivalent of a corporation, this structure is typically used for large or complex securitization transactions involving a high number of assets.  \n* [**Sociedad de Responsabilidad Limitada (S.L.)**](https://www.boe.es/buscar/act.php?id=BOE-A-2010-10544)**:** Similar to an LLC, this form is generally used for transactions involving a smaller number of assets.  \n* **Fideicomiso (Trust):** A very common SPV structure in which assets are held in a trust that issues securities directly to investors."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPV structure comparison table by region {#spv-structure-comparison-table-by-region}"
+    },
+    {
+      "id": "9763a310ab",
+      "md_type": "table_candidate",
+      "source_md": "|  | United States | United Kingdom | France | Germany | Luxembourg | Spain |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| **Common Legal Form(s)** | LLC, LP | Ltd, PFLP, LLP, Bare Trust | SARL, SC, SAS, SA, FCT, ST, Société de Projet | GmbH, UG, GmbH & Co. KG | SARL, SCS, SA, SCA, SCSp | S.A., S.L., Fideicomisos (Trusts) |\n| **Typical Liability** | Limited (Members/LPs) | Limited (Shareholders/Members/LPs) | Limited (Associés/Actionnaires) | Limited (Gesellschafter) | Limited (Shareholders/Partners) | Limited (Shareholders) |\n| **Default Tax Treatment** | Pass-through (LLC/LP) | Corporate (Ltd),Pass-through (Others) | Corporate (SARL/SAS/SA), Transparent/ Translucid (FCT) | Corporate (GmbH/UG, Pass-through (KG) | Corporate (SARL/SA),Pass-through (SCS/SCSp) |  Corporate ([exempt for renewable energy)](https://www.osborneclarke.com/insights/spains-tax-authority-allows-tax-exemption-renewable-energy-projects) |\n| **Key Formation Needs** | Operating/LP Agmt, State Filing | Articles, Companies House Reg. | Statutes, Registry Filing, Capital Rq. | Notarized Articles, Register Reg., Capital Req. | Articles, RCS Registration, Notarial Deed (some) | Registration as a subsidiary, Securities must be traded on public market. |\n| **Typical Use Cases** | VC/PE, Real Estate, Funds | Real Estate, VC/PE, General | General Corp., Securitization, Projects | General Corp., Projects, Holding | Investment Funds, Holding, Securitization | Securitization , Asset Transfer , Infrastructure Projects. |\n| **Flexibility/Compliance** | High Flex (LLC/LP), Low Compliance | Moderate Flex, Higher Compliance (Ltd) | Moderate/High Flex (SAS), Formal (SA) | Moderate Flex, Formal Compliance (GmbH) | High Flex (SCSp), Moderate (SARL) | Formal Compliance |"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "## Accounting, tax and regulatory considerations for SPV {#accounting-tax-and-regulatory-considerations-for-spv}"
+    },
+    {
+      "id": "efb5043266",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Setting up an SPV requires taking into account a range of tax, accounting, and regulatory considerations. These **rules vary significantly by jurisdiction and structure.**"
+    },
+    {
+      "id": "df160039c2",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Making the right, strategic choices requires careful planning and expert guidance to ensure the vehicle achieves its intended purpose without creating liabilities."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Tax considerations for SPVs {#tax-considerations-for-spvs}"
+    },
+    {
+      "id": "7802934ef0",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The tax treatment of an SPV is a primary driver of its structure but also a source of significant risk if not handled correctly. "
+    },
+    {
+      "id": "610ff0c37a",
+      "md_type": "list_candidate",
+      "source_md": "* **Entity taxation:** The default tax status of the SPV is a foundational choice. Many SPVs in the are structured as pass-through entities (like SC or SCSp), where the entity is not taxed directly, but investors are.  \n* **Jurisdiction:** The choice of jurisdiction can have major tax consequences. SPVs are often established in tax-friendly locations, but this requires careful planning to manage withholding taxes and international reporting requirements like [FATCA](https://www.irs.gov/businesses/corporations/foreign-account-tax-compliance-act-fatca).  \n* **Transactional taxes:** Specific transactions, such as selling property held within an SPV, can be structured for tax optimization, but these strategies require domain expertise to execute correctly. "
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Accounting & reporting for SPVs {#accounting-reporting-for-spvs}"
+    },
+    {
+      "id": "8e2a241d7b",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Proper accounting is crucial for transparency and avoiding the misuse of SPVs, as seen in historic corporate scandals. Maintaining a clear and compliant financial picture is a critical, ongoing task."
+    },
+    {
+      "id": "d5cec0771e",
+      "md_type": "list_candidate",
+      "source_md": "* **Separate financials:** An SPV must maintain its own distinct books, records, assets, and liabilities, separate from the sponsor.  \n* **Off-Balance sheet treatment:** While SPVs may be kept off a sponsor's balance sheet, this practice is now under stricter scrutiny and requires careful disclosure to avoid masking crucial information from investors.  \n* **Expense allocation:** Regulators like the CSSF and AFM have made the proper allocation of expenses between the SPV and its managers an examination priority, with significant fines for non-compliance."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Legal & regulatory framework {#legal-regulatory-framework}"
+    },
+    {
+      "id": "8db403650b",
+      "md_type": "paragraph_or_misc",
+      "source_md": "SPVs do not operate in a vacuum; they are subject to a web of requirements that dictate their formation and operation. These can be understood across three main dimensions:"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "#### **1\\. Regulatory** {#1-regulatory}"
+    },
+    {
+      "id": "806beab0fd",
+      "md_type": "list_candidate",
+      "source_md": "* **Securities laws:**  In most jurisdictions, SPVs that issue securities must comply with strict regulations (like [Law No. 88-121](https://companyformationfrance.com/open-a-spv-in-france/) in France) regarding how they can raise capital and who can invest.  \n* **Investor limitations:** Offerings are often restricted to accredited or otherwise sophisticated investors, and there may be limits on the number of investors permitted.  \n* **Ongoing compliance:** Regulators also require continuous filings, such as KYC/AML checks, state franchise taxes, registered agent fees, and other disclosures."
+    },
+    {
+      "id": "fe47dce0db",
+      "md_type": "paragraph_or_misc",
+      "source_md": "  #### **2\\. Corporate**"
+    },
+    {
+      "id": "7a18683b69",
+      "md_type": "list_candidate",
+      "source_md": "* **Legal structure:** The choice of entity (e.g. SAS, SC, SCSp) dictates governance rules, liability, and reporting requirements. This decision shapes both how the SPV operates internally and how it is treated by regulators."
+    },
+    {
+      "id": "c0c718352f",
+      "md_type": "paragraph_or_misc",
+      "source_md": "  #### **3\\. Fiscal**"
+    },
+    {
+      "id": "a80787efce",
+      "md_type": "list_candidate",
+      "source_md": "* **Tax treatment:** SPVs are often designed to be tax-transparent, ensuring that profits and capital gains are only taxed once at the investor level. However, treatment can vary significantly across jurisdictions, so cross-border investors must consider the fiscal implications in each relevant country."
+    },
+    {
+      "id": "2af0818f95",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The sheer number of variables makes professional support essential. Platforms like [Roundtable](https://www.roundtable.eu/) are designed to manage these requirements, handling the legal, tax, and administrative burdens so that founders and investors can focus on the deal itself."
+    },
+    {
+      "id": "58b63e273b",
+      "md_type": "list_candidate",
+      "source_md": "---"
+    },
+    {
+      "id": "f001cd3da5",
+      "md_type": "list_candidate",
+      "source_md": "**Simplify SPV compliance with Roundtable**"
+    },
+    {
+      "id": "3ce8114a38",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Roundtable handles the KYC and AML requirements of your European SPV, with centralized administration through our platform, from formation to ongoing administration, so you stay fully compliant."
+    },
+    {
+      "id": "ff5e1710b7",
+      "md_type": "paragraph_or_misc",
+      "source_md": "[Find out more by talking to one of our experts.](https://www.roundtable.eu/contact-us)"
+    },
+    {
+      "id": "58b63e273b",
+      "md_type": "list_candidate",
+      "source_md": "---"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "## SPV best practices {#spv-best-practices}"
+    },
+    {
+      "id": "ecf9297180",
+      "md_type": "paragraph_or_misc",
+      "source_md": "A robust SPV should always be designed with support from experienced legal, tax, and administrative professionals, the below best practices should be considered a starting point."
+    },
+    {
+      "id": "18b5b663ab",
+      "md_type": "list_candidate",
+      "source_md": "* **Legal and structural soundness:** An SPV’s constitutional documents should enforce a **narrow, limited purpose** to prevent unforeseen liabilities. The choice of jurisdiction is critical and should be based on investor familiarity and legal precedent, not just tax rates.   \n* **Robust contractual framework:** Consider embedding **\"non-petition\" and \"limited-recourse\" language** in all contracts to prevent creditors from filing for bankruptcy against the SPV. From day one, the legal agreements should **clearly document exit mechanics, payment waterfalls, and wind-down procedures** to avoid future deadlocks.  \n* **Operational integrity:** Maintain **strict operational separation** from the sponsor, with separate bank accounts, books, and records. Where possible, automate back-office processes using integrated platforms to manage costs and administrative work effectively.  \n* **Transparent reporting and compliance:** Establish a **fixed timetable** for audited, investor-grade reporting. It is essential to implement strict AML/KYC workflows for all investors and continuously track evolving regulations, such as SEC and EU rules, to ensure ongoing compliance.  \n* **Proactive risk management:** Before launch, secure legal opinions confirming the SPV's bankruptcy-remote status. A living risk playbook should be embedded from the start, mapping all counterparties and running stress tests to pre-agree on remedial actions for potential crises."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "## SPV Risks and challenges {#spv-risks-and-challenges}"
+    },
+    {
+      "id": "95c33e3544",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Even a correctly structured SPV presents challenges that require diligent management. Especially when it comes to tax, accounting, and regulation, where the obligations are continuous and the penalties for non-compliance can be severe."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### SPV tax risks {#spv-tax-risks}"
+    },
+    {
+      "id": "9b0763ab53",
+      "md_type": "paragraph_or_misc",
+      "source_md": "SPVs create specific cross-border and compliance risks that can impact investor returns if not managed proactively."
+    },
+    {
+      "id": "6b9027c1b3",
+      "md_type": "list_candidate",
+      "source_md": "* **Withholding tax:** In cross-border structures, there is a significant risk that **withholding taxes could be levied at multiple levels**, both between the startup and the SPV, and between the SPV and its investors, which can significantly reduce net returns.  \n* **International reporting:** Using offshore SPVs can trigger complex U.S. reporting requirements for American investors, such as those under the **Foreign Account Tax Compliance Act (FATCA)** and c**ontrolled foreign corporation (CFC)** rules.  \n* **Compliance burden:** Each SPV must obtain its own **Tax Identification Number (TIN)** and is typically required to file its own federal and state income tax returns, adding a layer of administrative complexity."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Accounting and reporting challenges {#accounting-and-reporting-challenges}"
+    },
+    {
+      "id": "57f1993b65",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The financial separation that makes SPVs useful also creates accounting challenges, demanding transparency and rigorous oversight to prevent misuse."
+    },
+    {
+      "id": "013c77d012",
+      "md_type": "list_candidate",
+      "source_md": "* **Potential for obscuring financials:** Historically, SPVs have been misused to hide corporate debt and fabricate earnings. This risk requires investors to conduct **thorough due diligence** on the financials of both the SPV and its sponsor, not just one or the other.  \n* **Scrutiny on expense allocation:** Regulators like the SEC are increasingly focused on **how expenses are allocated** between the SPV and its managers. Incorrectly charging certain costs to the SPV can lead to regulatory fines.  \n* **Maintaining separate records:** While essential for compliance, maintaining a **complete and accurate set of books and records** that is separate from the sponsor is a significant ongoing operational challenge."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Regulatory and governance risks {#regulatory-and-governance-risks}"
+    },
+    {
+      "id": "84f64c81ce",
+      "md_type": "paragraph_or_misc",
+      "source_md": "SPVs operate within a strict and varied regulatory framework, creating risks related to compliance, investor rights, and governance."
+    },
+    {
+      "id": "b57799e3fe",
+      "md_type": "list_candidate",
+      "source_md": "* **Investor limitations:** Regulations in jurisdictions like the U.S. impose **firm limits on the number and type of investors an SPV can accept**, with most offerings restricted to \"accredited investors\".  \n* **Limited investor rights:** LPs in an SPV typically have **no direct voting or information rights** in the underlying company. Their legal relationship is with the SPV manager, who holds the official shareholder position.  \n* **Incentive misalignment:** A potential conflict can arise if a manager **earns carried interest on an SPV deal without investing their main fund's capital,** meaning the LPs bear the primary financial risk.  \n* **Ongoing compliance burden:** SPVs are subject to continuous compliance obligations, including state-specific franchise taxes, registered agent fees, and securities filings, all of which carry penalties for failure."
+    },
+    {
+      "id": "7614d2b7fd",
+      "md_type": "list_candidate",
+      "source_md": "***Roundtable SPVs are deal-specific vehicles that do not qualify as Alternative Investment Funds (AIFs) and are not subject to fund regulations. They are generally tax-transparent, with taxation occurring at the investor level. Individual tax and legal consequences may vary; investors should seek independent advice.***"
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "## Common SPV pitfalls {#common-spv-pitfalls}"
+    },
+    {
+      "id": "80c7e2b430",
+      "md_type": "paragraph_or_misc",
+      "source_md": "The complexity of SPVs creates opportunities for mistakes. "
+    },
+    {
+      "id": "44f8f5f1d6",
+      "md_type": "paragraph_or_misc",
+      "source_md": "Flaws in the legal structure, financial mismanagement, or compliance gaps can undermine the vehicle's purpose, leading to financial loss or regulatory penalties. "
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Structural & legal flaws {#structural-legal-flaws}"
+    },
+    {
+      "id": "a2eb687039",
+      "md_type": "list_candidate",
+      "source_md": "* **Imperfect asset transfer:** If an asset transfer is not structured as an airtight \"true sale,\" courts may pull the assets back into the sponsor's estate, voiding the SPV's protections.  \n* **Weak separateness:** Commingling cash or using shared stationery can lead regulators to conclude the SPV is not truly separate, collapsing its legal structure.  \n* **Lack of independent veto:** Without a neutral director required to approve an insolvency filing, the sponsor could unilaterally file for the SPV's bankruptcy.  \n* **Implicit sponsor support:** Any back-door promise of support or guarantees from the sponsor can undermine the SPV's financial independence and risk isolation."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Financial & operational pitfalls {#financial-operational-pitfalls}"
+    },
+    {
+      "id": "21350ecb34",
+      "md_type": "list_candidate",
+      "source_md": "* **Opaque investor disclosures:** Failing to be fully transparent about underlying assets, fees, and side letters can lead to a loss of investor confidence and potential liabilities.  \n* **Over-leverage:** Taking on too much debt or mismatching liabilities can create servicing shortfalls during amortization.  \n* **Hidden costs:** Under-scoping the budget for the full lifecycle of admin, audit, and tax fees will ultimately erode net investor returns.  \n* **Inaccurate timelines:** Underestimating the time required for essentials like investor KYC and bank account opening can cause critical funding delays or bridge-funding costs.  \n* **Forgotten exit plan:** Having no clear plan or funds reserved for the wind-down phase can create a \"zombie\" entity that incurs unnecessary taxes and fees."
+    },
+    {
+      "id": "",
+      "md_type": "heading",
+      "source_md": "### Governance & compliance issues {#governance-compliance-issues}"
+    },
+    {
+      "id": "fea8e58e7a",
+      "md_type": "list_candidate",
+      "source_md": "* **Conflicts of interest:** When a sponsor also acts as the asset manager without proper firewalls, it can lead to misaligned incentives and asset quality drift.  \n* **Compliance gaps:** Failures in KYC/AML and investor accreditation workflows can result in funding delays and significant regulatory fines.  \n* **Waterfall & payment errors:** Mis-allocating funds during distributions can force costly restatements and damage credibility with investors."
+    }
+  ]
+}
