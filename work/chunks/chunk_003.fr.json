@@ -1,0 +1,610 @@
+{
+    "chunk_id": "003",
+    "lang_target": "fr",
+    "blocks": [
+    {
+    "id": "",
+    "md_type": "paragraph_or_misc",
+    "source_md": " confidence and potential liabilities.  \n* **Over-leverage:** Taking on too much debt or mismatching liabilities can create servicing shortfalls during amortization.  \n* **Hidden costs:** Under-scoping the budget for the full lifecycle of admin, audit, and tax fees will ultimately erode net investor returns.  \n* **Inaccurate timelines:** Underestimating the time required for essentials like investor KYC and bank account opening can cause critical funding delays or bridge-funding costs.  \n* **Forgotten exit plan:** Having no clear plan or funds reserved for the wind-down phase can create a "zombie" entity that incurs unnecessary taxes and fees.",
+    "translation_md": " confiance et passifs potentiels.  \n* **Surendettement :** Prendre trop de dette ou désapparier les passifs peut créer des déficits de service de la dette pendant l’amortissement.  \n* **Coûts cachés :** Sous‑évaluer le budget sur tout le cycle de vie des frais d’administration, d’audit et fiscaux finira par éroder le rendement net des investisseurs.  \n* **Calendriers inexacts :** Sous‑estimer le temps nécessaire pour des éléments essentiels comme le KYC des investisseurs et l’ouverture d’un compte bancaire peut provoquer des retards critiques de financement ou des coûts de bridge.  \n* **Plan de sortie oublié :** L’absence de plan clair ou de fonds réservés pour la phase de clôture peut créer une entité « zombie » qui supporte des taxes et frais inutiles."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Governance & compliance issues {#governance-compliance-issues}",
+    "translation_md": "### Problèmes de gouvernance et de conformité {#governance-compliance-issues}"
+    },
+    {
+    "id": "fea8e58e7a",
+    "md_type": "list_candidate",
+    "source_md": "* **Conflicts of interest:** When a sponsor also acts as the asset manager without proper firewalls, it can lead to misaligned incentives and asset quality drift.  \n* **Compliance gaps:** Failures in KYC/AML and investor accreditation workflows can result in funding delays and significant regulatory fines.  \n* **Waterfall & payment errors:** Mis-allocating funds during distributions can force costly restatements and damage credibility with investors.",
+    "translation_md": "* **Conflits d’intérêts :** Lorsqu’un sponsor est aussi le gérant des actifs sans cloisonnements adéquats, cela peut entraîner des incitations mal alignées et une dérive de la qualité des actifs.  \n* **Lacunes de conformité :** Des défaillances dans les processus KYC/AML et d’habilitation des investisseurs peuvent provoquer des retards de financement et d’importantes amendes réglementaires.  \n* **Erreurs de waterfall et de paiement :** Une mauvaise allocation des fonds lors des distributions peut imposer des retraitements coûteux et nuire à la crédibilité auprès des investisseurs."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## SPV Case Studies {#spv-case-studies}",
+    "translation_md": "## Études de cas SPV {#spv-case-studies}"
+    },
+    {
+    "id": "68ae5726f9",
+    "md_type": "paragraph_or_misc",
+    "source_md": "SPVs are now a common part of the investing landscape, with funds using SPVs to manage exposure to emerging fields and companies.",
+    "translation_md": "Les SPV (véhicules ad hoc) font désormais partie du paysage de l’investissement ; des fonds utilisent des SPV pour gérer leur exposition à des secteurs et des entreprises émergents."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for founders case study: Pletor's strategic angel round {#spvs-for-founders-case-study-pletors-strategic-angel-round}",
+    "translation_md": "### Étude de cas SPV pour fondateurs : tour d’anges stratégique de Pletor {#spvs-for-founders-case-study-pletors-strategic-angel-round}"
+    },
+    {
+    "id": "aa717f8555",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For its €1.5 million first fundraising round, AI startup Pletor needed to bring in a diverse group of international angel investors who could provide deep expertise in marketing, design, and AI.",
+    "translation_md": "Pour son premier tour de financement de 1,5 million €, la startup d’IA Pletor devait réunir un groupe diversifié d’anges internationaux apportant une forte expertise en marketing, design et IA."
+    },
+    {
+    "id": "60d00dd935",
+    "md_type": "list_candidate",
+    "source_md": "* **The challenge:** The founders wanted to onboard a dozen strategic angels from France, Germany, the UK, and Spain. They knew that managing this process individually would create significant administrative and legal hassles, distracting them from the core business of building their company.  \n* **The SPV solution:** Pletor used Roundtable to create a single SPV to pool all of their angel investors. This allowed the founders to easily track commitments and streamlined the entire process for their investors, who could onboard and sign all documents digitally on a single platform.  \n* **The result:** By using an SPV, Pletor successfully brought in high-value strategic investors without the administrative workload. The founders maintained a clean cap table and were able to focus on investor engagement and scaling their business, rather than managing paperwork.",
+    "translation_md": "* **Le défi :** Les fondateurs voulaient embarquer une douzaine d’anges stratégiques de France, d’Allemagne, du Royaume‑Uni et d’Espagne. Ils savaient que gérer ce processus individuellement créerait des lourdeurs administratives et juridiques, les détournant du cœur de leur activité.  \n* **La solution SPV :** Pletor a utilisé Roundtable pour créer un SPV unique regroupant tous ses anges. Les fondateurs ont ainsi pu suivre facilement les engagements et offrir à leurs investisseurs un parcours fluidifié : onboarding et signature de tous les documents, 100 % numériques, sur une seule plateforme.  \n* **Le résultat :** En recourant à un SPV, Pletor a fait entrer des investisseurs stratégiques à forte valeur sans surcharge administrative. Les fondateurs ont conservé une cap table propre et se sont concentrés sur la relation investisseurs et l’essor de l’entreprise plutôt que sur la paperasse."
+    },
+    {
+    "id": "a144005372",
+    "md_type": "list_candidate",
+    "source_md": "**Read more about [Pletor’s SVP strategy](https://www.roundtable.eu/clients/ferdinand-terme-pletor)**",
+    "translation_md": "**En savoir plus sur [la stratégie SVP de Pletor](https://www.roundtable.eu/clients/ferdinand-terme-pletor)**"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for investment clubs case study: scaling Super Capital {#spvs-for-investment-clubs-case-study-scaling-super-capital}",
+    "translation_md": "### Étude de cas SPV pour clubs d’investissement : changement d’échelle chez Super Capital {#spvs-for-investment-clubs-case-study-scaling-super-capital}"
+    },
+    {
+    "id": "29a81ff457",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Super Capital, a French investment community with over 1,000 active members, uses SPVs to structure their early-stage tech investments and scale their operations.",
+    "translation_md": "Super Capital, une communauté d’investissement française avec plus de 1 000 membres actifs, utilise des SPV pour structurer ses investissements tech early‑stage et changer d’échelle."
+    },
+    {
+    "id": "03a942b553",
+    "md_type": "list_candidate",
+    "source_md": "* **The Challenge:** Super Capital wanted to grow its community and increase its average investment size to have a more significant impact on a startup's cap table. They needed a platform to manage a large, diverse group of investors and streamline their deal-by-deal investment process.  \n* **The SPV Solution:** The firm uses Roundtable to create SPVs for specific deals, allowing them to offer opportunities to their community even if the deal doesn't fit the thesis of their main collective vehicle. This provides flexibility and allows individual members to opt into deals they are passionate about.  \n* **The Result:** By using Roundtable's SPV structure, Super Capital can manage its large community, organize deal-by-deal investments efficiently, and aim to triple its typical deal size from \~€100k to over €300k. The platform gives them the visibility and structure needed to professionalize their community-led investment model.",
+    "translation_md": "* **Le défi :** Super Capital voulait faire grandir sa communauté et augmenter la taille moyenne de ses tickets pour peser davantage sur la cap table d’une startup. Il leur fallait une plateforme pour gérer un groupe d’investisseurs large et divers, et fluidifier un processus d’investissement opération par opération.  \n* **La solution SPV :** Le collectif utilise Roundtable pour créer des SPV dédiés à certains deals, afin de proposer des opportunités à sa communauté même si l’opération ne correspond pas à la thèse de son véhicule collectif principal. Cela apporte de la flexibilité et permet aux membres de choisir les deals qui les passionnent.  \n* **Le résultat :** Grâce à la structure SPV de Roundtable, Super Capital peut gérer une grande communauté, organiser efficacement des investissements deal‑by‑deal et viser un triplement du ticket moyen, de ~ 100 k€ à plus de 300 k€. La plateforme leur apporte visibilité et cadre pour professionnaliser leur modèle d’investissement communautaire."
+    },
+    {
+    "id": "1acf7c3ed6",
+    "md_type": "list_candidate",
+    "source_md": "**Learn more about Super Capital’s [SPVs for investment clubs](https://www.roundtable.eu/clients/corentin-orsini-super-capital) approach**",
+    "translation_md": "**En savoir plus sur l’[approche SPV pour clubs d’investissement](https://www.roundtable.eu/clients/corentin-orsini-super-capital) de Super Capital**"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for fund managers case study: Better Angle's flexible syndicate model {#spvs-for-fund-managers-case-study-better-angles-flexible-syndicate-model}",
+    "translation_md": "### Étude de cas SPV pour gérants de fonds : le modèle de syndication flexible de Better Angle {#spvs-for-fund-managers-case-study-better-angles-flexible-syndicate-model}"
+    },
+    {
+    "id": "f500da62e0",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Better Angle, a French community-led investment firm, uses a deal-by-deal SPV model alongside its flagship funds to enhance flexibility and provide more opportunities for its network of over 200 entrepreneurs.",
+    "translation_md": "Better Angle, société d’investissement française animée par sa communauté, utilise un modèle de SPV au coup par coup parallèlement à ses fonds phares pour gagner en flexibilité et offrir davantage d’opportunités à son réseau de plus de 200 entrepreneurs."
+    },
+    {
+    "id": "42182218a4",
+    "md_type": "list_candidate",
+    "source_md": "* **The challenge:** The firm wanted to invest in specialized or sensitive sectors, like defense tech, that didn't align with the values of their broader investor community. They also wanted to give their existing LPs a way to increase their exposure to high-performing companies in the main fund.  \n* **The SPV solution:** Better Angle uses Roundtable to launch deal-by-deal SPV syndicates. This allows interested investors to opt into specialized deals without affecting the core funds. It also enables their fund LPs to "double down" on specific opportunities they are passionate about.  \n* **The result:** Roundtable's platform handles the operational load for these syndicates, from investor onboarding and KYC to compliance. This gives Better Angle the flexibility to offer tailored deals, engage their community, and close investments much faster, averaging three deals a month.",
+    "translation_md": "* **Le défi :** La société souhaitait investir dans des secteurs spécialisés ou sensibles, comme la défense, qui n’étaient pas alignés avec les valeurs de sa communauté d’investisseurs la plus large. Elle voulait aussi permettre à ses LP existants d’augmenter leur exposition aux sociétés performantes du fonds principal.  \n* **La solution SPV :** Better Angle utilise Roundtable pour lancer des syndications SPV deal‑by‑deal. Les investisseurs intéressés peuvent ainsi entrer dans des opérations spécialisées sans affecter les fonds cœurs. Les LP du fonds peuvent aussi « double down » sur des opportunités spécifiques qui les passionnent.  \n* **Le résultat :** La plateforme Roundtable prend en charge la charge opérationnelle de ces syndications, de l’onboarding investisseurs et du KYC à la conformité. Better Angle gagne la flexibilité d’offrir des deals sur mesure, d’animer sa communauté et de conclure beaucoup plus vite, avec en moyenne trois deals par mois."
+    },
+    {
+    "id": "ac0d46a54c",
+    "md_type": "list_candidate",
+    "source_md": "**Read more about Better Angle’s [SPV model for syndicates](https://www.roundtable.eu/clients/baptiste-hamel-better-angle)**",
+    "translation_md": "**En savoir plus sur le [modèle de SPV pour syndications](https://www.roundtable.eu/clients/baptiste-hamel-better-angle) de Better Angle**"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV for international angels case study: Pruna AI’s global alignment {#spv-for-international-angels-case-study-pruna-ais-global-alignment}",
+    "translation_md": "### Étude de cas SPV pour anges internationaux : l’alignement mondial de Pruna AI {#spv-for-international-angels-case-study-pruna-ais-global-alignment}"
+    },
+    {
+    "id": "5efddf1eb8",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For its $6.5 million seed round, [German-French startup Pruna AI](https://www.roundtable.eu/clients/rayan-nait-mazi-pruna-ai) used a [Roundtable SPV](https://www.roundtable.eu/) to bring in strategic angel investors from across the globe.",
+    "translation_md": "Pour son tour seed de 6,5 millions $, la [startup franco‑allemande Pruna AI](https://www.roundtable.eu/clients/rayan-nait-mazi-pruna-ai) a utilisé un [SPV Roundtable](https://www.roundtable.eu/) pour faire entrer des anges stratégiques du monde entier."
+    },
+    {
+    "id": "ccb519cfb1",
+    "md_type": "list_candidate",
+    "source_md": "* **The challenge:** The founders needed to onboard about a dozen strategic angels from multiple countries, but were warned that managing this individually would be a logistical "nightmare" due to Germany's bureaucratic fundraising process.  \n* **The SPV solution:** They used Roundtable to create a single, **Luxembourg-based SPV** to consolidate all international investors. This streamlined the relevant cross-border paperwork and simplified the entire process.  \n* **The result:** The SPV delivered a faster, smoother, and more efficient fundraising experience for the Pruna AI team, their lawyers, and their angels. By handling the administrative hassle, Roundtable enabled the founders to focus on selecting the right strategic partners to help them scale.",
+    "translation_md": "* **Le défi :** Les fondateurs devaient embarquer environ une douzaine d’anges stratégiques de plusieurs pays, mais on les avait prévenus que le gérer individuellement serait un « cauchemar » logistique en raison de la bureaucratie du financement en Allemagne.  \n* **La solution SPV :** Ils ont utilisé Roundtable pour créer un **SPV basé au Luxembourg** consolidant tous les investisseurs internationaux. Cela a rationalisé les formalités transfrontalières et simplifié l’ensemble du processus.  \n* **Le résultat :** Le SPV a permis une levée plus rapide, plus fluide et plus efficace pour l’équipe Pruna AI, leurs avocats et leurs anges. En prenant en charge la lourdeur administrative, Roundtable a permis aux fondateurs de se concentrer sur le choix des bons partenaires stratégiques pour changer d’échelle."
+    },
+    {
+    "id": "761ed94f69",
+    "md_type": "list_candidate",
+    "source_md": "**Read more about Pruna’s [angel syndicate SPV](https://www.roundtable.eu/clients/rayan-nait-mazi-pruna-ai)**",
+    "translation_md": "**En savoir plus sur le [SPV de syndication d’anges](https://www.roundtable.eu/clients/rayan-nait-mazi-pruna-ai) de Pruna**"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## How to setup your SPV {#how-to-setup-your-spv}",
+    "translation_md": "## Comment créer votre SPV {#how-to-setup-your-spv}"
+    },
+    {
+    "id": "41f4c3c89f",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Setting up an SPV requires a strategic set of choices – from where to incorporate to how to structure capital and shares – that can **influence the success of your investment and your potential returns**. Key steps to understand are:",
+    "translation_md": "La création d’un SPV (entité ad hoc) exige une série de choix stratégiques — du lieu d’immatriculation à la structuration du capital et des titres — qui peuvent **influencer le succès de votre investissement et vos rendements potentiels**. Les étapes clés à comprendre sont :"
+    },
+    {
+    "id": "aacd9aeca4",
+    "md_type": "list_candidate",
+    "source_md": "1. ### Pre-formation planning",
+    "translation_md": "1. ### Planification pré‑constitution"
+    },
+    {
+    "id": "a3d02d67df",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Before any legal documents are filed, the foundation of the SPV dictates all future steps.",
+    "translation_md": "Avant tout dépôt de documents juridiques, les fondations du SPV conditionnent toutes les étapes futures."
+    },
+    {
+    "id": "4c3ce53ce4",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Key strategic decisions include:",
+    "translation_md": "Les décisions stratégiques clés comprennent :"
+    },
+    {
+    "id": "9f2ae5c525",
+    "md_type": "list_candidate",
+    "source_md": "* **Define sponsor goals:** The process begins by clearly defining the SPV’s purpose, whether it's for **risk isolation**, **securitization**, a **joint venture**, or **tax optimization**. This goal dictates the entire structure.  \n* **Select a jurisdiction:** The choice of jurisdiction is critical. Key criteria include the speed of formation, a court system with a strong track record on **insolvency remoteness**, and familiarity to target investors.  \n* **Ensure economic substance:** To comply with modern tax regulations like **BEPS 2.0**, the SPV must have genuine economic activity. This may require **local directors** and robust independent governance to maintain its legal and tax separation.",
+    "translation_md": "* **Définir les objectifs du sponsor :** Le processus commence par une définition claire de l’objet du SPV, qu’il s’agisse **d’isolation du risque**, de **titrisation**, d’une **joint‑venture** ou **d’optimisation fiscale**. Cet objectif dicte l’ensemble de la structure.  \n* **Choisir une juridiction :** Le choix de la juridiction est critique. Les critères clés incluent la rapidité de constitution, un système judiciaire avec une solide jurisprudence en matière **d’étanchéité à l’insolvabilité** et la familiarité auprès des investisseurs visés.  \n* **Assurer la substance économique :** Pour se conformer aux réglementations fiscales modernes telles que **BEPS 2.0**, le SPV doit avoir une activité économique réelle. Cela peut nécessiter des **directeurs locaux** et une gouvernance indépendante robuste pour maintenir sa séparation juridique et fiscale."
+    },
+    {
+    "id": "12255b5075",
+    "md_type": "list_candidate",
+    "source_md": "**Roundtable perspective:** Investment is increasingly borderless – if you’re eyeing cross-border deals, make sure you’re working in a region that can access funds from multiple jurisdictions. ",
+    "translation_md": "**Point de vue Roundtable :** L’investissement devient de plus en plus transfrontalier ; si vous visez des opérations cross‑border, travaillez dans une zone capable d’accueillir des fonds provenant de multiples juridictions."
+    },
+    {
+    "id": "92cf848d85",
+    "md_type": "list_candidate",
+    "source_md": "*Roundtable specializes in standardized, compliant SPV structures in leading European jurisdictions like Luxembourg and France, that offer the right combination of flexibility and tax efficiency.*",
+    "translation_md": "*Roundtable est spécialisé dans des structures de SPV standardisées et conformes dans des juridictions européennes de premier plan comme le Luxembourg et la France, offrant le bon équilibre entre flexibilité et efficacité fiscale.*"
+    },
+    {
+    "id": "6a6cb1b843",
+    "md_type": "list_candidate",
+    "source_md": "2. ### Legal formation and structuring",
+    "translation_md": "2. ### Constitution et structuration juridiques"
+    },
+    {
+    "id": "354cdbf3fb",
+    "md_type": "paragraph_or_misc",
+    "source_md": "This phase involves legally creating the entity and establishing its operational rules. The key mechanics are:",
+    "translation_md": "Cette phase consiste à créer juridiquement l’entité et à établir ses règles de fonctionnement. Les mécanismes clés sont :"
+    },
+    {
+    "id": "f876b8c577",
+    "md_type": "list_candidate",
+    "source_md": "* **Choose a legal entity:** Select the appropriate legal form, such as a **Limited Liability Company (LLC)**, **Limited Partnership (LP)**, or a corporate entity held in an **"orphan" trust structure**.  \n* **Draft governance documents:** Create core legal agreements like the **Memorandum and Articles of Association** or **Partnership Agreement**. These define the SPV's constitution, powers, and internal rules. *(This is where an experienced partner like* **Roundtable** *can help reduce risk and uncertainty).*  \n* **File and appoint:** File the necessary formation documents with the jurisdictional authority, appoint a **Registered Agent**, and obtain a **Tax ID Number**.  \n* **Engage service providers:** Assemble a network of crucial partners, including **legal counsel**, **tax advisors**, a **trustee** to represent investors, a **servicer** to manage assets, and an **SPV administrator** for day-to-day operations.",
+    "translation_md": "* **Choisir une forme juridique :** Sélectionner la forme adéquate, telle qu’une **Limited Liability Company (LLC)**, une **Limited Partnership (LP)** ou une société détenue dans une **structure de trust « orpheline »**.  \n* **Rédiger les documents de gouvernance :** Établir les accords juridiques de base comme le **Memorandum and Articles of Association** ou le **Partnership Agreement**. Ils définissent la constitution, les pouvoirs et les règles internes du SPV. *(C’est ici qu’un partenaire expérimenté comme* **Roundtable** *peut réduire le risque et l’incertitude.)*  \n* **Déposer et nommer :** Déposer les documents de constitution auprès de l’autorité compétente, nommer un **Registered Agent** et obtenir un **Tax ID Number**.  \n* **Mobiliser des prestataires :** Constituer un réseau de partenaires clés : **legal counsel**, **tax advisors**, un **trustee** pour représenter les investisseurs, un **servicer** (gestionnaire opérationnel) pour administrer les actifs et un **administrateur de SPV** pour les opérations quotidiennes."
+    },
+    {
+    "id": "539b60706d",
+    "md_type": "list_candidate",
+    "source_md": "**Roundtable perspective:** For investors and founders, this stage is often the most time-consuming, and has the potential to slow down the deal or hinder future negotiations if drafting is not done with an eye to the future.",
+    "translation_md": "**Point de vue Roundtable :** Pour les investisseurs et les fondateurs, cette étape est souvent la plus chronophage et peut ralentir l’opération ou gêner les négociations futures si la rédaction n’anticipe pas l’avenir."
+    },
+    {
+    "id": "2610032161",
+    "md_type": "list_candidate",
+    "source_md": "*An end-to-end platform like Roundtable replaces the need to coordinate multiple service providers by handling the entire legal formation, document drafting, and administrative setup for you.*",
+    "translation_md": "*Une plateforme de bout en bout comme Roundtable évite de coordonner une multiplicité de prestataires en prenant en charge la constitution juridique, la rédaction documentaire et la mise en place administrative.*"
+    },
+    {
+    "id": "226e095fb1",
+    "md_type": "list_candidate",
+    "source_md": "3. ### Capitalization and funding",
+    "translation_md": "3. ### Capitalisation et financement"
+    },
+    {
+    "id": "5ddb9a3a5e",
+    "md_type": "paragraph_or_misc",
+    "source_md": "With the legal entity in place, the SPV is funded and receives the assets it was created to hold.",
+    "translation_md": "Une fois l’entité juridique en place, le SPV est financé et reçoit les actifs qu’il a vocation à détenir."
+    },
+    {
+    "id": "1b6c224628",
+    "md_type": "list_candidate",
+    "source_md": "* **Asset transfer:** The core assets are transferred to the SPV via a **"true sale"**, a transaction structured to be robust against the originator’s potential insolvency.  \n* **Raise funds:** The SPV raises capital by issuing **securities**, such as notes, bonds, or certificates, to investors, which are backed by the SPV's assets.  \n* **Define the waterfall:** Transaction documents must meticulously define the **cash flow waterfall**, outlining the priority of payments: first operational fees, then interest and principal to investors (often by tranche), and finally residual profit.",
+    "translation_md": "* **Transfert d’actifs :** Les actifs principaux sont transférés au SPV via un **« true sale »**, une opération conçue pour résister à une éventuelle insolvabilité de l’originateur.  \n* **Levée de fonds :** Le SPV lève du capital en émettant des **securities** (billets, obligations, certificats) adossées aux actifs du SPV.  \n* **Définir le waterfall :** Les documents transactionnels doivent définir avec précision le **cash‑flow waterfall**, c’est‑à‑dire l’ordre de priorité des paiements : d’abord les frais opérationnels, puis les intérêts et le principal dus aux investisseurs (souvent par tranche), et enfin le profit résiduel."
+    },
+    {
+    "id": "c2dd8f1546",
+    "md_type": "list_candidate",
+    "source_md": "**Roundtable perspective:** Winning investors is only half the battle – robust due diligence and compliance are key to safeguard your investment and make future management simpler.",
+    "translation_md": "**Point de vue Roundtable :** Convaincre les investisseurs n’est que la moitié du chemin ; une due diligence solide et la conformité sont essentielles pour sécuriser l’investissement et simplifier la gestion future."
+    },
+    {
+    "id": "3296c25f8c",
+    "md_type": "list_candidate",
+    "source_md": "*Roundtable automates investor onboarding, KYC/AML checks, digital document signing, and secure fund collection, allowing you to close your round faster.*",
+    "translation_md": "*Roundtable automatise l’onboarding des investisseurs, les contrôles KYC/AML, la signature numérique des documents et la collecte sécurisée des fonds, ce qui permet de boucler un tour plus rapidement.*"
+    },
+    {
+    "id": "c8ff4b8872",
+    "md_type": "list_candidate",
+    "source_md": "4. ### Plan for operation and exit",
+    "translation_md": "4. ### Planifier l’exploitation et la sortie"
+    },
+    {
+    "id": "8c45ffbd82",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A successful setup includes planning for the entire lifecycle of the vehicle, from its daily operations to its eventual dissolution.",
+    "translation_md": "Une mise en place réussie comprend la planification de tout le cycle de vie du véhicule, de l’exploitation quotidienne à sa dissolution finale."
+    },
+    {
+    "id": "32653d6975",
+    "md_type": "list_candidate",
+    "source_md": "* **Ongoing administration:** Plan for ongoing tasks, including **investor reporting** (on NAV, IRR, etc.), **regulatory reporting** (e.g., beneficial ownership updates), and **tax reporting** (e.g., FATCA/CRS).  \n* **Exit and dissolution:** The governing documents must specify dissolution triggers (e.g., project completion, asset sale, or investor vote) and the wind-down process, which includes settling all debts, filing a **dissolution certificate**, and making a final distribution of any residual assets.",
+    "translation_md": "* **Administration continue :** Planifier les tâches récurrentes, dont le **reporting investisseurs** (NAV, IRR, etc.), le **reporting réglementaire** (p. ex. mises à jour sur les bénéficiaires effectifs) et le **reporting fiscal** (p. ex. FATCA/CRS).  \n* **Sortie et dissolution :** Les documents de gouvernance doivent préciser les déclencheurs de dissolution (p. ex. achèvement du projet, cession d’actifs ou vote des investisseurs) et le processus de clôture, comprenant l’apurement des dettes, le dépôt d’un **dissolution certificate** et la distribution finale des actifs résiduels."
+    },
+    {
+    "id": "8383e9a3f4",
+    "md_type": "list_candidate",
+    "source_md": "**Roundtable perspective:** Once you’ve made your investment, ongoing reporting and compliance can be a major drain on resources without the right tools. ",
+    "translation_md": "**Point de vue Roundtable :** Une fois l’investissement réalisé, le reporting et la conformité peuvent mobiliser fortement les ressources sans les bons outils."
+    },
+    {
+    "id": "b0c6284d83",
+    "md_type": "list_candidate",
+    "source_md": "*Roundtable’s platform centralizes these tasks, handling everything from investor updates and tax documentation to the final distribution and dissolution of the vehicle.*",
+    "translation_md": "*La plateforme Roundtable centralise ces tâches, de la communication investisseurs et la documentation fiscale jusqu’à la distribution finale et la dissolution du véhicule.*"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### How to set up an SPV with Roundtable in Europe {#how-to-set-up-an-spv-with-roundtable-in-europe}",
+    "translation_md": "### Comment créer un SPV avec Roundtable en Europe {#how-to-set-up-an-spv-with-roundtable-in-europe}"
+    },
+    {
+    "id": "be1fe83a42",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Roundtable’s platform helps you automate the complexities of creating and managing a SPV so you can focus on finding investors and making deals happen. ",
+    "translation_md": "La plateforme Roundtable vous aide à automatiser la complexité de la création et de la gestion d’un SPV afin que vous puissiez vous concentrer sur la recherche d’investisseurs et la concrétisation des opérations."
+    },
+    {
+    "id": "d9340c29d8",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Our streamlined experience helps dealmakers to launch their SPV quickly to capitalize on opportunities and provide the best investor experience possible.",
+    "translation_md": "Notre parcours rationalisé aide les dealmakers à lancer rapidement leur SPV pour saisir les opportunités et offrir la meilleure expérience possible aux investisseurs."
+    },
+    {
+    "id": "c062bcc034",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Roundtable's all-in-one platform covers the end-to-end process of creating and managing your SPV, including:",
+    "translation_md": "La plateforme tout‑en‑un de Roundtable couvre de bout en bout la création et la gestion de votre SPV, notamment :"
+    },
+    {
+    "id": "6ad69271bf",
+    "md_type": "list_candidate",
+    "source_md": "* **Automated setup:** The platform handles the entire incorporation process, from **registering the vehicle** in key jurisdictions to setting up the required **bank accounts**.  \n* **Digital investor onboarding:** A digital workflow covers the full **investor onboarding** process, including all **Know-Your-Customer (KYC)** checks, to ensure compliance and a smooth investor experience.  \n* **Centralized governance:** Roundtable acts as the **SPV manager**, creating and housing all necessary **legal documents and contracts** on the platform. Key governance actions, such as investor voting, are managed digitally.  \n* **Secure transaction management:** The entire investment process is managed on the platform, from the secure **digital signing** of agreements to the efficient **collection and deployment of funds**.",
+    "translation_md": "* **Mise en place automatisée :** La plateforme gère l’intégralité de l’immatriculation, de **l’enregistrement du véhicule** dans les juridictions clés à l’ouverture des **comptes bancaires** requis.  \n* **Onboarding investisseur digital :** Un flux numérique couvre l’ensemble du processus **d’onboarding investisseur**, y compris tous les contrôles **Know‑Your‑Customer (KYC)**, pour assurer la conformité et une expérience fluide.  \n* **Gouvernance centralisée :** Roundtable agit comme **SPV manager**, crée et héberge tous les **documents et contrats juridiques** nécessaires. Les actions de gouvernance clés, comme les votes des investisseurs, sont gérées en ligne.  \n* **Gestion sécurisée des transactions :** Tout le processus d’investissement est géré sur la plateforme, de la **signature numérique** sécurisée des accords à la **collecte et au déploiement** efficaces des fonds."
+    },
+    {
+    "id": "4c086951f6",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Find out how you can get started today by talking to one of our experts.](https://www.roundtable.eu/contact-us)",
+    "translation_md": "[Découvrez comment démarrer dès aujourd’hui en échangeant avec l’un de nos experts.](https://www.roundtable.eu/contact-us)"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## What’s the best SPV platform? {#whats-the-best-spv-platform}",
+    "translation_md": "## Quelle est la meilleure plateforme SPV ? {#whats-the-best-spv-platform}"
+    },
+    {
+    "id": "e562fab876",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A new ecosystem of tech-enabled platforms has emerged to simplify the process of setting up and managing SPVs. These platforms offer different strengths and pricing models, catering to various needs, from angel syndicates launching their first deal to professional fund managers requiring institutional-grade administration.",
+    "translation_md": "Un nouvel écosystème de plateformes technologiques a émergé pour simplifier la création et la gestion de SPV. Leurs atouts et modèles tarifaires diffèrent, couvrant des besoins variés, des syndications d’anges lançant leur premier deal aux gérants professionnels recherchant une administration de niveau institutionnel."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### AngelList {#angellist}",
+    "translation_md": "### AngelList {#angellist}"
+    },
+    {
+    "id": "b17ef773ee",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A pioneer in the space, [AngelList](https://www.angellist.com/) is a US-based platform (Delaware) optimized for **venture and angel investing**. Its key strength is its vast network of LPs, and it is ideal for syndicate leads focused on tech startups. The platform is known for its **speed** (\~1 week setup) and standardized **flat-fee pricing** of \~$8,000 per SPV.",
+    "translation_md": "Pionnier du secteur, [AngelList](https://www.angellist.com/) est une plateforme américaine (Delaware) optimisée pour le **venture et l’angel investing**. Sa force clé est son vaste réseau de LP, ce qui en fait un choix idéal pour les leads de syndication centrés sur les startups tech. La plateforme est connue pour sa **vitesse** (mise en place en ~ 1 semaine) et sa **tarification forfaitaire** standardisée d’environ 8 000 $ par SPV."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Carta {#carta}",
+    "translation_md": "### Carta {#carta}"
+    },
+    {
+    "id": "65a8ab4d07",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Carta](https://carta.com/) offers a comprehensive, **end-to-end fund administration** service for professional GPs and established VC firms. It supports both **U.S. and international** structures (via its acquisition of Vauban) and is designed to handle complex, customized funds that require ongoing administration. Pricing is **custom-quoted** on an enterprise basis.",
+    "translation_md": "[Carta](https://carta.com/) propose un service complet **d’administration de fonds de bout en bout** pour les GP professionnels et les sociétés de VC établies. La plateforme supporte des structures **US et internationales** (via l’acquisition de Vauban) et gère des fonds complexes et personnalisés nécessitant une administration continue. La tarification est **sur devis** au niveau entreprise."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Roundtable {#roundtable}",
+    "translation_md": "### Roundtable {#roundtable}"
+    },
+    {
+    "id": "154335278e",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Roundtable](https://www.roundtable.eu/) is a leading European platform specializing in **cross-border angel investing**. It is ideal for **European startup founders, [investment clubs](https://www.roundtable.eu/solutions/investors)** and fund managers, with a presence in key jurisdictions like Luxembourg and France. Their pricing is deal-based at **1% of funds raised** (with a €5,000 minimum), and they are known for fast setup times and their social community approach.",
+    "translation_md": "[Roundtable](https://www.roundtable.eu/) est une plateforme européenne de premier plan, spécialisée dans **l’angel investing transfrontalier**. Idéale pour les **fondateurs de startups européens, les [clubs d’investissement](https://www.roundtable.eu/solutions/investors)** et les gérants, avec une présence dans des juridictions clés comme le Luxembourg et la France. La tarification est indexée sur l’opération, à **1 % des fonds levés** (minimum 5 000 €), avec des délais de mise en place rapides et une approche communautaire."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### bunch {#bunch}",
+    "translation_md": "### bunch {#bunch}"
+    },
+    {
+    "id": "6db13b1545",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[bunch](https://www.bunch.capital/) is a **Germany-based**, all-in-one private markets platform designed for professional **fund managers with cross-border European investments**. It provides a full suite of digital tools to handle the complexity of European regulations. Pricing is on a **custom, enterprise** model tailored to the fund's specific needs.",
+    "translation_md": "[bunch](https://www.bunch.capital/) est une plateforme **basée en Allemagne**, tout‑en‑un pour les marchés privés, conçue pour les **gérants professionnels investissant en Europe de manière transfrontalière**. Elle fournit une suite complète d’outils numériques pour gérer la complexité réglementaire européenne. Tarification **entreprise sur mesure**, adaptée aux besoins du fonds."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Allocations {#allocations}",
+    "translation_md": "### Allocations {#allocations}"
+    },
+    {
+    "id": "a72f616095",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Allocations](https://www.allocations.com/), a U.S. platform (Delaware), markets itself on **speed and simplicity**, claiming to be one of the fastest ways to launch an SPV. It is designed for **rapid deal execution**, making it a good fit for frequent syndicators who prioritize speed. It has a **premium pricing** model, with a standard SPV starting at \~$10,000.",
+    "translation_md": "[Allocations](https://www.allocations.com/), plateforme américaine (Delaware), met en avant **la rapidité et la simplicité**, affirmant être l’un des moyens les plus rapides de lancer un SPV. Conçue pour **exécuter des deals rapidement**, elle convient aux syndicateurs fréquents qui privilégient la vitesse. Modèle de **tarification premium**, avec un SPV standard à partir de ~ 10 000 $."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Sydecar {#sydecar}",
+    "translation_md": "### Sydecar {#sydecar}"
+    },
+    {
+    "id": "fe75727324",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Sydecar](https://www.sydecar.io/) is a U.S.-based (Delaware) platform focused on providing a **low-cost, automated** solution. With a pricing model that starts with a minimum fee of \~$4,500, it is ideal for **cost-sensitive new managers** and those executing **smaller deals** where higher fees would be prohibitive.",
+    "translation_md": "[Sydecar](https://www.sydecar.io/) est une plateforme américaine (Delaware) proposant une solution **peu coûteuse et automatisée**. Avec un minimum de ~ 4 500 $, elle convient aux **nouveaux gérants sensibles aux coûts** et à ceux qui exécutent **de petits deals** où des frais élevés seraient prohibitifs."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Flow (Apex) {#flow-apex}",
+    "translation_md": "### Flow (Apex) {#flow-apex}"
+    },
+    {
+    "id": "0c2e1fdc97",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Now part of the global Apex Group, [Flow](https://flowinc.com/) is an institutional-grade platform primarily focused on the **U.S. market**. It is designed to provide a **high-touch experience** for larger SPVs and funds with many LPs. Pricing is on a custom, **enterprise** basis, reflecting its institutional focus.",
+    "translation_md": "Désormais au sein d’Apex Group, [Flow](https://flowinc.com/) est une plateforme de niveau institutionnel, centrée principalement sur le **marché américain**. Elle vise une **expérience à forte valeur** pour des SPV et des fonds de grande taille avec de nombreux LP. Tarification **entreprise sur mesure**, en ligne avec son positionnement institutionnel."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Odin {#odin}",
+    "translation_md": "### Odin {#odin}"
+    },
+    {
+    "id": "7a9ab0c03f",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Odin](https://www.joinodin.com/) is a **UK-based** platform focused on serving **angel syndicates in Europe**. It offers a fast, deal-based fee structure and also supports the creation of **fund feeder vehicles** for pooling investors into larger VC funds.",
+    "translation_md": "[Odin](https://www.joinodin.com/) est une plateforme **basée au Royaume‑Uni** au service des **syndications d’anges en Europe**. Elle propose une tarification rapide **par opération** et permet aussi de créer des **fund feeder vehicles** pour agréger des investisseurs vers de plus grands fonds de VC."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Securitize {#securitize}",
+    "translation_md": "### Securitize {#securitize}"
+    },
+    {
+    "id": "1a24ed01d5",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Securitize](https://securitize.io/) is a more recent arrival, focused on **asset tokenization**, not a traditional SPV setup platform. Its core product is on creating **tokenized securities** to enable fractional ownership and provide liquidity via its own secondary trading market (ATS). The process is longer (1-3+ months) and pricing is **higher and custom-quoted** due to its complexity.",
+    "translation_md": "[Securitize](https://securitize.io/) est un acteur plus récent, focalisé sur la **tokenisation d’actifs**, et non sur la création traditionnelle de SPV. Son produit principal est la création de **securities tokenisées** pour permettre la détention fractionnée et offrir de la liquidité via son propre marché secondaire (ATS). Le processus est plus long (1‑3+ mois) et la tarification **plus élevée et sur devis** en raison de la complexité."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV Provider Comparison Table {#spv-provider-comparison-table}",
+    "translation_md": "### Tableau comparatif des prestataires SPV {#spv-provider-comparison-table}"
+    },
+    {
+    "id": "c6a3e2c8ce",
+    "md_type": "table_candidate",
+    "source_md": "| Platform | Region | Key Strengths | Tokenization | Launch Speed | Pricing | Ideal For |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| **[AngelList](https://www.angellist.com/)** | U.S. (Delaware) | Venture & angel investing, large LP network | Limited. Can hold crypto via **CoinList** partnership, but no asset tokenization. | Fast (\~1 week) | $8K flat fee \+ flat state regulatory fee of $2K, add-ons | Tech startup equity deals, syndicate leads wanting LP access |\n| **[Carta](https://carta.com/uk/en/fund-management/spv/)** | U.S. & International (via **Vauban**) | End-to-end fund management, customization | No | Moderate (days to weeks) | Custom-quoted based on deal | Professional GPs, VC firms needing ongoing admin |\n| **[Roundtable](https://www.roundtable.eu/)** | EU Specialisation, (France, Belgium, Netherlands, Luxembourg), Global depending on country | Cross-border European angel investing | No | Fast for EU standards, (\~1 week) | 1% of funds raised (min €5K) | European startup founders, investment clubs, fund managers |\n| **[bunch](https://www.bunch.capital/private-investors)** | EU (Germany-based, expanding to Luxembourg) | All-in-one private markets platform | No | Variable (days to weeks) | Custom/Enterprise price based on deal | Fund managers with cross-border European investments |\n| **[Allocations](https://www.allocations.com/real-estate-spv)** | U.S. (Delaware) | Speed and simplicity | Option for crypto/ DeFi SPVs, non-tokenized assets | Fast | From $9,950 for “standard” SPV | Rapid deal execution, frequent syndicators |\n| **[Sydecar](https://www.sydecar.io/spv)** | U.S. (Delaware) | Low-cost automation | No | Very fast (days) | 2% of capital raised ( $4.5K – $12.5K). | Cost-sensitive new managers, small deal sizes |\n| **[Flow (Apex)](https://flowinc.com/spvs)** | U.S. primarily | High-touch LP experience | No | Moderate | Enterprise pricing | Larger SPVs/funds with many LPs |\n| **[Odin](https://www.joinodin.com/education-centre/spv-startup-investing)** | UK | Angel syndicates in Europe | No | Fast | Deal-based fee | UK/European angel investing, fund feeder vehicles |\n| **Securitize** | U.S. & Global | Tokenized investments, potential liquidity | Yes (core focus) | Longer (1-3+ months) | Higher, custom pricing | Digital asset fractionalization, secondary trading |",
+    "translation_md": "| Plateforme | Région | Forces clés | Tokenisation | Vitesse de lancement | Tarification | Idéal pour |\n| :---- | :---- | :---- | :---- | :---- | :---- | :---- |\n| **[AngelList](https://www.angellist.com/)** | États‑Unis (Delaware) | Venture & angel investing, grand réseau de LP | Limité. Peut détenir des crypto via le partenariat **CoinList**, mais pas de tokenisation d’actifs. | Rapide (~ 1 semaine) | Forfait de 8 000 $ \+ frais réglementaires d’État forfaitaires de 2 000 $, options en sus | Opérations en actions de startups tech, leads de syndication recherchant l’accès aux LP |\n| **[Carta](https://carta.com/uk/en/fund-management/spv/)** | États‑Unis & International (via **Vauban**) | Administration de fonds de bout en bout, personnalisation | Non | Modérée (jours à semaines) | Sur devis selon l’opération | GP professionnels, sociétés de VC nécessitant une administration continue |\n| **[Roundtable](https://www.roundtable.eu/)** | Spécialisation UE (France, Belgique, Pays‑Bas, Luxembourg), Global selon pays | Angel investing européen transfrontalier | Non | Rapide aux standards UE (~ 1 semaine) | 1 % des fonds levés (min. 5 000 €) | Fondateurs européens, clubs d’investissement, gérants de fonds |\n| **[bunch](https://www.bunch.capital/private-investors)** | UE (basée en Allemagne, expansion au Luxembourg) | Plateforme tout‑en‑un pour marchés privés | Non | Variable (jours à semaines) | Prix sur mesure/entreprise selon l’opération | Gérants avec investissements européens transfrontaliers |\n| **[Allocations](https://www.allocations.com/real-estate-spv)** | États‑Unis (Delaware) | Vitesse et simplicité | Option pour des SPV crypto/DeFi, actifs non tokenisés | Rapide | À partir de 9 950 $ pour un SPV « standard » | Exécution rapide, syndicateurs fréquents |\n| **[Sydecar](https://www.sydecar.io/spv)** | États‑Unis (Delaware) | Automatisation à coût réduit | Non | Très rapide (jours) | 2 % du capital levé (4 500 $ – 12 500 $) | Nouveaux gérants sensibles aux coûts, petits tickets |\n| **[Flow (Apex)](https://flowinc.com/spvs)** | Principalement États‑Unis | Expérience LP à forte valeur | Non | Modérée | Tarification entreprise | SPV/fonds de grande taille avec de nombreux LP |\n| **[Odin](https://www.joinodin.com/education-centre/spv-startup-investing)** | Royaume‑Uni | Syndications d’anges en Europe | Non | Rapide | Frais par opération | Angel investing au Royaume‑Uni/en Europe, fund feeder vehicles |\n| **Securitize** | États‑Unis & Global | Investissements tokenisés, liquidité potentielle | Oui (cœur de l’offre) | Plus long (1‑3+ mois) | Plus élevé, sur mesure | Fractionnement d’actifs numériques, marché secondaire |"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## What’s next for SPVs: future trends  {#whats-next-for-spvs-future-trends}",
+    "translation_md": "## Et après pour les SPV : tendances à venir  {#whats-next-for-spvs-future-trends}"
+    },
+    {
+    "id": "3753c9b0f6",
+    "md_type": "paragraph_or_misc",
+    "source_md": "The Special Purpose Vehicle is not a static tool; it is continuously evolving to meet new market demands and technological possibilities. Key emerging trends suggest a future where SPVs become more technologically integrated, purpose-driven, and standardized, all while navigating increasing demands for transparency.",
+    "translation_md": "Le Special Purpose Vehicle n’est pas un outil statique ; il évolue en continu pour répondre aux nouvelles demandes du marché et aux possibilités technologiques. Les tendances émergentes indiquent un futur où les SPV seront plus intégrés technologiquement, orientés finalité et standardisés, tout en répondant à des exigences accrues de transparence."
+    },
+    {
+    "id": "248e2713bf",
+    "md_type": "list_candidate",
+    "source_md": "* **Tokenization and digital securities:** An emerging trend is [representing SPV ownership interests as digital tokens on a blockchain](https://www.antiersolutions.com/blogs/the-role-of-spv-structure-in-tokenization-a-comprehensive-guide) or [building on Web3 architecture](https://www.google.com/url?q=https://www.hamiltonlane.com/en-us/news/news-libre-launches-scope-on-solana&sa=D&source=docs&ust=1750689183609048&usg=AOvVaw2VPeUwiv565wiXNRj8B6Hb). This could significantly increase liquidity and efficiency in secondary markets, combining the legal certainty of an SPV with the technological benefits of blockchain.  \n* **DAOs as investment vehicles:** Decentralized Autonomous Organizations (DAOs) are emerging as a potential new way to organize and manage control within an SPV, with [providers investing in new blockchain products](https://www.circle.com/blog/how-syndicate-daos-and-the-circle-account-are-revolutionizing-investing) to deliver the service.  \n* **ESG and impact-driven SPVs:** There is a growing use of [SPVs for specific sustainable or social goals](https://napglobalnetwork.org/innovative-financing/green-securitization/). This includes creating **"Green Bonds"** by securitizing assets like solar leases, or **"Social Impact Bonds"** that fund social programs with investor returns tied to successful outcomes, making green projects faster to fund and simpler to invest in.  \n* **Automation and AI management:** Technology is being integrated into SPV operations. Algorithms could soon automate complex cash flow management and compliance monitoring, while AI may one day optimize financial decisions, potentially reducing costs and human error.  \n* **Standardization and Simplification** To counteract complexity, a trend is emerging towards [standardizing SPV documentation](https://ilpa.org/industry-guidance/templates-standards-model-documents/). This includes using pre-established "utility" SPVs or "shelf companies" that allow for faster and more cost-effective setup for new deals.",
+    "translation_md": "* **Tokenisation et titres numériques :** Tendance émergente : [représenter les droits de propriété d’un SPV sous forme de jetons numériques sur une blockchain](https://www.antiersolutions.com/blogs/the-role-of-spv-structure-in-tokenization-a-comprehensive-guide) ou [s’appuyer sur une architecture Web3](https://www.google.com/url?q=https://www.hamiltonlane.com/en-us/news/news-libre-launches-scope-on-solana&sa=D&source=docs&ust=1750689183609048&usg=AOvVaw2VPeUwiv565wiXNRj8B6Hb). Cela pourrait accroître sensiblement la liquidité et l’efficacité des marchés secondaires en combinant la certitude juridique d’un SPV avec les bénéfices technologiques de la blockchain.  \n* **DAO comme véhicules d’investissement :** Les Decentralized Autonomous Organizations (DAO) émergent comme un nouveau mode d’organisation et de contrôle au sein d’un SPV, avec [des prestataires investissant dans de nouveaux produits blockchain](https://www.circle.com/blog/how-syndicate-daos-and-the-circle-account-are-revolutionizing-investing) pour fournir ce service.  \n* **SPV orientés ESG et impact :** L’usage des [SPV pour des objectifs durables ou sociaux spécifiques](https://napglobalnetwork.org/innovative-financing/green-securitization/) progresse. Cela inclut la création **d’« obligations vertes »** via la titrisation d’actifs comme des baux solaires, ou **d’« obligations à impact social »** finançant des programmes sociaux avec des rendements liés aux résultats, rendant les projets verts plus rapides à financer et plus simples à investir.  \n* **Automatisation et gestion par IA :** La technologie s’intègre aux opérations des SPV. Des algorithmes pourraient bientôt automatiser la gestion complexe des flux et le suivi de conformité, tandis que l’IA pourrait optimiser les décisions financières, réduisant potentiellement les coûts et les erreurs humaines.  \n* **Standardisation et simplification** Pour contrer la complexité, une tendance émerge vers la [standardisation de la documentation SPV](https://ilpa.org/industry-guidance/templates-standards-model-documents/). Cela inclut l’utilisation de SPV « utilitaires » pré‑établis ou de « shelf companies » permettant des mises en place plus rapides et économiques pour de nouveaux deals."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## Conclusion {#conclusion}",
+    "translation_md": "## Conclusion {#conclusion}"
+    },
+    {
+    "id": "70f05a32de",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For investors and syndicate leads looking to safeguard and separate investments, SPVs offer a **flexible, transparent, and cost-effective way to pool capital.** ",
+    "translation_md": "Pour les investisseurs et chefs de syndication souhaitant sécuriser et séparer des investissements, les SPV offrent un **moyen flexible, transparent et économique de mutualiser du capital.** "
+    },
+    {
+    "id": "f77fa384e2",
+    "md_type": "paragraph_or_misc",
+    "source_md": "With no ongoing fund commitments, SPVs allow participants to invest on a deal-by-deal basis while simplifying cap table management for founders.",
+    "translation_md": "Sans engagement de fonds récurrents, les SPV permettent d’investir deal‑by‑deal tout en simplifiant pour les fondateurs la gestion de la cap table."
+    },
+    {
+    "id": "1ed348acd0",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Roundtable’s platform makes SPV formation and management simple – streamlining onboarding, compliance, investor reporting, and ongoing administration.",
+    "translation_md": "La plateforme Roundtable simplifie la création et la gestion de SPV : onboarding, conformité, reporting investisseurs et administration continue."
+    },
+    {
+    "id": "1809df75cd",
+    "md_type": "list_candidate",
+    "source_md": "* **Simple set up:** From entity formation to bank account opening, Roundtable handles every step of your SPV launch.  \n* **Tailored legal documents:** Access professionally drafted subscription agreements and operating documents aligned with your specific deal terms.  \n* **Compliance built-in:** KYC, AML, and investor onboarding are fully integrated for a seamless investor experience.  \n* **Cost-effective solutions:** Our platform minimizes setup costs and back-office complexity, allowing you to focus capital on your investments.  \n* ",
+    "translation_md": "* **Mise en place simple :** De la constitution de l’entité à l’ouverture du compte bancaire, Roundtable gère chaque étape du lancement de votre SPV.  \n* **Documents juridiques adaptés :** Accédez à des conventions de souscription et à des documents opérationnels rédigés par des professionnels, alignés sur les termes de votre deal.  \n* **Conformité intégrée :** KYC, AML et onboarding investisseurs sont entièrement intégrés pour une expérience fluide.  \n* **Solutions économiques :** Notre plateforme réduit les coûts de mise en place et la complexité back‑office, afin de concentrer le capital sur vos investissements.  \n* "
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## SPV FAQs {#spv-faqs}",
+    "translation_md": "## FAQ SPV {#spv-faqs}"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### How do accounting standards decide if an SPV must be consolidated? {#how-do-accounting-standards-decide-if-an-spv-must-be-consolidated}",
+    "translation_md": "### Comment les normes comptables décident‑elles si un SPV doit être consolidé ? {#how-do-accounting-standards-decide-if-an-spv-must-be-consolidated}"
+    },
+    {
+    "id": "558eb82fe9",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Modern accounting standards (like IFRS 10 and US-GAAP) look past simple voting rights to determine control. You must consolidate an SPV onto your balance sheet if you both direct the activities that most affect its returns and absorb the majority of its variable returns. If not, it can remain off-balance-sheet, but still requires extensive disclosure in your financial notes.",
+    "translation_md": "Les normes comptables modernes (telles qu’IFRS 10 et US‑GAAP) vont au‑delà des simples droits de vote pour déterminer le contrôle. Un SPV doit être consolidé au bilan si vous dirigez les activités qui influent le plus sur ses rendements et si vous assumez la majorité de ses rendements variables. Sinon, il peut rester hors bilan, tout en nécessitant des informations fournies de manière étendue dans les annexes aux états financiers."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### What features are essential for a truly bankruptcy-remote SPV? {#what-features-are-essential-for-a-truly-bankruptcy-remote-spv}",
+    "translation_md": "### Quelles caractéristiques sont essentielles pour un SPV véritablement « bankruptcy‑remote » ? {#what-features-are-essential-for-a-truly-bankruptcy-remote-spv}"
+    },
+    {
+    "id": "b0250d1df7",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A truly bankruptcy-remote SPV, standard in jurisdictions like Delaware or Luxembourg, requires several non-negotiable features that rating agencies review first:",
+    "translation_md": "Un SPV véritablement bankruptcy‑remote, standard dans des juridictions comme le Delaware ou le Luxembourg, requiert plusieurs caractéristiques non négociables, que les agences de notation examinent en premier lieu :"
+    },
+    {
+    "id": "bb2dc63d93",
+    "md_type": "list_candidate",
+    "source_md": "* **Independent governance:** At least one independent director empowered to block any voluntary insolvency filing.  \n* **Limited-purpose charter:** Prohibits any activities outside the defined transaction to prevent unforeseen liabilities.  \n* **Separateness covenants:** Requires separate bank accounts, books, and a strict prohibition on commingling cash with the sponsor.  \n* **Contractual protections:** "Non-petition" and "limited-recourse" clauses in every contract to prevent creditors from forcing bankruptcy.",
+    "translation_md": "* **Gouvernance indépendante :** Au moins un administrateur indépendant habilité à bloquer toute demande volontaire d’insolvabilité.  \n* **Objet social limité :** Interdiction de toute activité en dehors de l’opération définie afin d’éviter des passifs imprévus.  \n* **Separateness covenants :** Comptes bancaires et comptabilité séparés, et interdiction stricte du mélange de trésorerie avec le sponsor.  \n* **Protections contractuelles :** Clauses « non‑petition » et « limited‑recourse » dans chaque contrat pour empêcher des créanciers de forcer une faillite."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### How long does it take to set up an SPV? {#how-long-does-it-take-to-set-up-an-spv}",
+    "translation_md": "### Combien de temps faut‑il pour créer un SPV ? {#how-long-does-it-take-to-set-up-an-spv}"
+    },
+    {
+    "id": "5a10d95076",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A simple, turn-key SPV can be incorporated in 2–5 business days. However, the full launch process, including drafting transaction documents, opening bank accounts, and wiring capital, can take 20–30 days. Venture deal SPVs on automated platforms can compress this timeline significantly, often to under 10 days.",
+    "translation_md": "Un SPV simple et clé en main peut être constitué en 2–5 jours ouvrés. Cependant, le processus complet de lancement, incluant la rédaction des documents transactionnels, l’ouverture des comptes bancaires et l’envoi des fonds, peut prendre 20–30 jours. Pour des SPV de venture sur plateformes automatisées, ce délai peut être sensiblement réduit, souvent à moins de 10 jours."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### What ongoing governance tasks should be expected? {#what-ongoing-governance-tasks-should-be-expected}",
+    "translation_md": "### Quelles tâches de gouvernance continue faut‑il prévoir ? {#what-ongoing-governance-tasks-should-be-expected}"
+    },
+    {
+    "id": "a15ad3754d",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Even passive SPVs require ongoing management. Key tasks include calculating cash flow waterfalls for investor payments, holding director meetings to certify covenant compliance, and coordinating annual audited financial statements. A professional administrator usually bundles these tasks into a fixed annual fee so the sponsor can focus on asset performance.",
+    "translation_md": "Même des SPV passifs exigent une gestion continue. Les tâches clés incluent le calcul des waterfalls de flux de trésorerie pour les paiements aux investisseurs, la tenue de réunions du conseil afin d’attester du respect des covenants, et la coordination des états financiers annuels audités. Un administrateur professionnel regroupe généralement ces tâches dans un forfait annuel pour que le sponsor se concentre sur la performance des actifs."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### How does an SPV differ from a SPAC or a regular subsidiary? {#how-does-an-spv-differ-from-a-spac-or-a-regular-subsidiary}",
+    "translation_md": "### En quoi un SPV diffère‑t‑il d’un SPAC ou d’une filiale classique ? {#how-does-an-spv-differ-from-a-spac-or-a-regular-subsidiary}"
+    },
+    {
+    "id": "dd1cf18b9c",
+    "md_type": "paragraph_or_misc",
+    "source_md": "These entities serve very different purposes. A **regular subsidiary** is used for ordinary, ongoing business operations and is always consolidated. A **SPAC** is a publicly-funded shell company created to find and acquire an *unknown* future target. An **SPV** is used to isolate the risks and assets of a *known*, defined project or asset set.",
+    "translation_md": "Ces entités ont des finalités très différentes. Une **filiale classique** sert aux opérations courantes et est toujours consolidée. Un **SPAC** (société cotée « coquille », créée pour identifier puis acquérir une cible future *encore inconnue*) est financé publiquement. Un **SPV** (véhicule/entité ad hoc) sert à isoler les risques et les actifs d’un projet ou d’un ensemble d’actifs *déjà définis*."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Can the shares or notes of an SPV be tokenized? {#can-the-shares-or-notes-of-an-spv-be-tokenized}",
+    "translation_md": "### Les actions ou titres d’un SPV peuvent‑ils être tokenisés ? {#can-the-shares-or-notes-of-an-spv-be-tokenized}"
+    },
+    {
+    "id": "cd4fb5fbba",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Yes, SPV securities can be issued as digital tokens on a blockchain, as demonstrated by recent institutional funds. This does not waive securities law or AML compliance; the same legal paperwork and investor checks are required. The primary benefit is improved efficiency and liquidity in secondary markets, though it may come with higher initial legal spend and evolving regulatory guidance.",
+    "translation_md": "Oui, des titres de SPV peuvent être émis sous forme de jetons numériques sur une blockchain, comme l’ont montré des fonds institutionnels récents. Cela ne dispense ni du droit des valeurs mobilières ni des obligations AML ; les mêmes documents juridiques et vérifications d’investisseurs sont requis. Le principal bénéfice est un gain d’efficacité et de liquidité sur les marchés secondaires, au prix possible d’un coût juridique initial plus élevé et d’un cadre réglementaire encore en évolution."
+    }
+    ],
+    "glossary_applied": [
+    "ABS",
+    "AML",
+    "Allocations",
+    "AngelList",
+    "Apex",
+    "BEPS",
+    "CRS",
+    "Carta",
+    "CoinList",
+    "DAO",
+    "Delaware",
+    "ESG",
+    "FATCA",
+    "Flow",
+    "GP",
+    "IRS",
+    "KYC",
+    "LP",
+    "Luxembourg",
+    "NAV",
+    "Odin",
+    "OT",
+    "Roundtable",
+    "SC",
+    "SCA",
+    "SEC",
+    "SPAC",
+    "SPE",
+    "SPV",
+    "Securitize",
+    "Sydecar",
+    "Trust",
+    "bunch",
+    "cap table",
+    "separateness covenants",
+    "true sale"
+    ],
+    "notes": "Sources : termbase et DNT appliqués, et texte source chunk_003.en.json.  "
+    }
+    

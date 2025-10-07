@@ -1,0 +1,586 @@
+{
+    "chunk_id": "001",
+    "lang_target": "fr",
+    "blocks": [
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## Definition: What is an SPV (Special Purpose Vehicle, also known as Special Purpose Entity)? {#definition-what-is-an-spv-special-purpose-vehicle-also-known-as-special-purpose-entity}",
+    "translation_md": "## Définition : qu’est‑ce qu’un SPV (Special Purpose Vehicle, également appelé Special Purpose Entity) ? {#definition-what-is-an-spv-special-purpose-vehicle-also-known-as-special-purpose-entity}"
+    },
+    {
+    "id": "364dfb5a29",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A **Special Purpose Vehicle (SPV)** is a distinct legal entity created by a founding organization for a narrowly defined financial objective. Its main purpose is to **isolate financial risk** associated with a specific project, allowing founders to **streamline fundraising** and investors to **pool capital safely**.",
+    "translation_md": "Un **Special Purpose Vehicle (SPV)** est une entité juridique distincte créée par une organisation fondatrice pour un objectif financier précisément défini. Ce « véhicule ad hoc »/**entité ad hoc** a pour finalité principale **d’isoler le risque financier** lié à un projet spécifique, ce qui permet aux fondateurs de **simplifier la levée de fonds** et aux investisseurs de **mutualiser le capital en toute sécurité**."
+    },
+    {
+    "id": "5447c1333b",
+    "md_type": "list_candidate",
+    "source_md": "*Special Purpose Vehicle and Special Purpose Entity are synonymous and will be used interchangeably throughout this article.*",
+    "translation_md": "*Special Purpose Vehicle et Special Purpose Entity sont synonymes et seront utilisés indifféremment dans cet article.*"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Summary table: SPV characteristics  {#summary-table-spv-characteristics}",
+    "translation_md": "### Tableau récapitulatif : caractéristiques d’un SPV  {#summary-table-spv-characteristics}"
+    },
+    {
+    "id": "7ab089c767",
+    "md_type": "table_candidate",
+    "source_md": "|  | SPV Characteristic |\n| :---- | :---- |\n| **Legal Status** | Distinct legal entity, separate from its creator.  Owns its own assets and incurs its own liabilities. Maintains its own balance sheet. |\n| **Core Purpose** | Created for a single, defined business or financial objective.  Isolate financial risk tied to specific assets or projects. Governing documents strictly limit its activities to the predefined purpose. |\n| **Bankruptcy Remoteness** | Structured to minimize the risk of parent's bankruptcy.  Protects the SPV’s assets from the parent’s creditors.  Protects parent company's other activities from the SPV's creditors. |\n| **Common Legal Forms** | Can be established as a Corporation, Limited Liability Company (LLC), Limited Partnership (LP), or Trust. Choice of structure depends on the specific jurisdiction, tax, and liability requirements. |\n| **Capital Structure** | Often features a custom capital structure with minimal equity.  For enhanced remoteness, ownership can be held by an independent third party ("orphan" structure.) |\n| **Financial Reporting** | Periodic updates on asset performance, NAV, and performance metrics (IRR, MOIC) for investors Compliance filings, including annual reports and beneficial ownership updates  Annual tax returns and FATCA/CRS reporting to tax authorities Annual audits to verify financials and compliance (IFRS or US GAAP). |",
+    "translation_md": "|  | Caractéristique du SPV |\n| :---- | :---- |\n| **Statut juridique** | Entité juridique distincte, séparée de son créateur. Détient ses propres actifs et assume ses propres passifs. Tient sa propre balance. |\n| **Objet principal** | Créée pour un objectif commercial ou financier unique et défini. Isole le risque financier lié à des actifs ou projets spécifiques. Les documents constitutifs limitent strictement ses activités à l’objet prédéfini. |\n| **Étanchéité à la faillite** | Structurée pour minimiser le risque de faillite du parent. Protège les actifs du SPV des créanciers du parent. Protège les autres activités du parent des créanciers du SPV. |\n| **Formes juridiques courantes** | Peut être constituée en Corporation, Limited Liability Company (LLC), Limited Partnership (LP) ou Trust. Le choix dépend de la juridiction, de la fiscalité et des exigences de responsabilité. |\n| **Structure du capital** | Présente souvent une structure de capital sur mesure avec un capital propre minimal. Pour renforcer l’indépendance, la propriété peut être détenue par un tiers indépendant (structure « orphan »). |\n| **Information financière** | Mises à jour périodiques sur la performance des actifs, le NAV et les indicateurs (IRR, MOIC) pour les investisseurs. Dépôts réglementaires, y compris rapports annuels et mises à jour des bénéficiaires effectifs. Déclarations fiscales annuelles et reporting FATCA/CRS aux autorités fiscales. Audits annuels pour vérifier les états financiers et la conformité (IFRS ou US GAAP). |"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## Why use an SPV for investment? {#why-use-an-spv-for-investment}",
+    "translation_md": "## Pourquoi utiliser un SPV pour investir ? {#why-use-an-spv-for-investment}"
+    },
+    {
+    "id": "4733e9f9d5",
+    "md_type": "paragraph_or_misc",
+    "source_md": "From their origins in the 1980s as off-balance-sheet legal structures to isolate financial risk by ring-fencing assets and liabilities from a parent company, the SPV market was valued at approximately **$12 billion in 2024** and is [projected to grow to $20 billion by 2033](https://www.verifiedmarketreports.com/product/special-purpose-vehicle-services-spv-services-market/) (6.5% CAGR), with [89% of GPs expecting to see growth in SPV deal volumes](https://www.cscglobal.com/service/resources/spv-global-outlook-2025-report/#:~:text=Key%20findings%20from%20400%20global,to%20address%20growing%20operational%20challenges.) in 2025\.",
+    "translation_md": "Nées dans les années 1980 comme structures juridiques hors bilan pour isoler le risque financier en « cloisonnant » actifs et passifs du parent, les SPV représentaient environ **12 milliards $ en 2024** et [devraient atteindre 20 milliards $ d’ici 2033](https://www.verifiedmarketreports.com/product/special-purpose-vehicle-services-spv-services-market/) (TCAC de 6,5 %), tandis que [89 % des GP anticipent une hausse des volumes de deals en SPV](https://www.cscglobal.com/service/resources/spv-global-outlook-2025-report/#:~:text=Key%20findings%20from%20400%20global,to%20address%20growing%20operational%20challenges.) en 2025."
+    },
+    {
+    "id": "79b4fa3d7d",
+    "md_type": "paragraph_or_misc",
+    "source_md": "SPVs offer advantages to each party in an investment transaction, from risk management and deal access for investors to administrative simplicity for founders and strategic flexibility for fund managers.",
+    "translation_md": "Les SPV offrent des avantages à chaque partie d’une transaction d’investissement, de la gestion du risque et l’accès aux deals pour les investisseurs à la simplicité administrative pour les fondateurs et la flexibilité stratégique pour les gestionnaires de fonds."
+    },
+    {
+    "id": "76d29be7b7",
+    "md_type": "paragraph_or_misc",
+    "source_md": "What’s more, there are also a range of SPV platform providers (like [Roundtable](https://www.roundtable.eu/) in Europe) that can help streamline the SPV creation process to help investors simplify their set up, manage investments and reduce administrative headaches along the way.",
+    "translation_md": "Par ailleurs, il existe des plateformes spécialisées dans les SPV (comme [Roundtable](https://www.roundtable.eu/) en Europe) qui fluidifient la création de SPV afin d’aider les investisseurs à simplifier la mise en place, gérer les investissements et réduire les lourdeurs administratives."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV Benefits for Investors & Limited Partners (LPs) {#spv-benefits-for-investors-limited-partners-lps}",
+    "translation_md": "### Avantages des SPV pour les investisseurs et les Limited Partners (LPs) {#spv-benefits-for-investors-limited-partners-lps}"
+    },
+    {
+    "id": "280a0c9891",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For those deploying capital, an SPV offers protection for assets, the ability to pool capital effectively, and access to secondary markets.",
+    "translation_md": "Pour ceux qui déploient du capital, un SPV offre une protection des actifs, la capacité de mutualiser efficacement le capital et un accès à des marchés secondaires."
+    },
+    {
+    "id": "81b0c19344",
+    "md_type": "list_candidate",
+    "source_md": "* **Access and control:** An SPV allows investors to **pool capital for a single, specific company** they choose to back. This is often possible with lower investment minimums making venture capital deals more accessible.  \n* **Financial and tax efficiency:** SPVs are typically structured as pass-through entities (like LLCs or LPs), which **helps investors avoid double taxation** at the entity level. They can be established in tax-friendly jurisdictions such as Luxembourg and The Cayman Islands.    \n* **Cost effectiveness:** SPVs generally have lower setup costs and fewer management fees than traditional funds.  \n* **Enhanced liquidity:** Depending on the partnership agreement, SPV investors may have the right to sell their stakes to other shareholders or third parties, providing more **opportunities to realize returns**.",
+    "translation_md": "* **Accès et contrôle :** Un SPV permet aux investisseurs de **mutualiser du capital pour une seule société précise** qu’ils choisissent de soutenir. C’est souvent possible avec des tickets minimaux plus faibles, rendant les opérations de venture capital plus accessibles.  \n* **Efficacité financière et fiscale :** Les SPV sont généralement des entités « pass‑through » (comme des LLC ou des LP), ce qui **évite la double imposition** au niveau de l’entité. Ils peuvent être constitués dans des juridictions fiscalement attractives comme le Luxembourg et les Cayman Islands.  \n* **Efficience des coûts :** Les SPV ont en général des coûts de mise en place et des frais de gestion inférieurs à ceux des fonds traditionnels.  \n* **Liquidité accrue :** Selon l’accord de partenariat, les investisseurs du SPV peuvent avoir le droit de céder leurs parts à d’autres actionnaires ou à des tiers, offrant davantage **d’occasions de réaliser des retours**."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV Benefits for Founders & Target Companies {#spv-benefits-for-founders-target-companies}",
+    "translation_md": "### Avantages des SPV pour les fondateurs et les sociétés cibles {#spv-benefits-for-founders-target-companies}"
+    },
+    {
+    "id": "76dc6e41b9",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For the companies receiving capital, the primary advantage of an SPV is operational simplicity and a **cleaner path to future growth**.",
+    "translation_md": "Pour les sociétés qui reçoivent du capital, l’avantage principal d’un SPV est la simplicité opérationnelle et un **chemin de croissance future plus lisible**."
+    },
+    {
+    "id": "156e691105",
+    "md_type": "list_candidate",
+    "source_md": "* **Simplified capitalization table:** An [SPV for founders](https://www.roundtable.eu/solutions/founders) makes it simple to accept capital from a large group of individual investors while only adding a single line item to their capitalization (cap) table.   \n* **Streamlined administration:** The company can share information with one SPV instead of many individual investors, reducing the reporting burden.”.",
+    "translation_md": "* **Cap table simplifiée :** Un [SPV pour fondateurs](https://www.roundtable.eu/solutions/founders) facilite l’accueil de capitaux provenant d’un grand nombre d’investisseurs individuels tout en n’ajoutant qu’une seule ligne à la table de capitalisation (cap table).  \n* **Administration allégée :** La société peut partager l’information avec un seul SPV plutôt qu’avec de nombreux investisseurs individuels, réduisant la charge de reporting."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV Benefits for Fund Managers, GPs & Syndicate Leads {#spv-benefits-for-fund-managers-gps-syndicate-leads}",
+    "translation_md": "### Avantages des SPV pour les gestionnaires de fonds, les GPs et les syndicate leads {#spv-benefits-for-fund-managers-gps-syndicate-leads}"
+    },
+    {
+    "id": "816b746b6c",
+    "md_type": "paragraph_or_misc",
+    "source_md": "For those organizing investments, SPVs are a flexible instrument for building a track record, executing strategy, and creating economic incentives.",
+    "translation_md": "Pour les organisateurs d’investissements, les SPV sont un instrument flexible pour bâtir un track‑record, exécuter une stratégie et créer des incitations économiques."
+    },
+    {
+    "id": "2f4e12e0ab",
+    "md_type": "list_candidate",
+    "source_md": "* **Build a track record:** Raising capital via a deal-by-deal SPV is often **faster and easier** than raising a traditional blind-pool fund, including for emerging managers and [syndicate leads](https://www.roundtable.eu/solutions/investment-clubs).  \n* **Strategic & opportunistic investing:** SPVs give [fund managers](https://www.roundtable.eu/solutions/funds) flexibility. They can be used to pursue compelling **opportunities that fall outside a main fund's specific thesis** or concentration limits. They also allow managers to exercise pro-rata rights to make follow-on investments in successful portfolio companies, even when the primary fund lacks the capital to do so. Finally, they can be used as **"continuation funds"** to hold onto a winning asset beyond a fund's original lifecycle.  \n* **Economic alignment:** The SPV structure allows the organizer or syndicate lead to **earn carried interest**, a share of the profits from the investment, aligning their financial success with that of their investors.",
+    "translation_md": "* **Constituer un track‑record :** Lever des fonds via un SPV « deal‑by‑deal » est souvent **plus rapide et plus simple** que lever un fonds traditionnel de type blind‑pool, y compris pour les nouveaux gestionnaires et les [syndicate leads](https://www.roundtable.eu/solutions/investment-clubs).  \n* **Investissement stratégique et opportuniste :** Les SPV donnent de la flexibilité aux [gestionnaires de fonds](https://www.roundtable.eu/solutions/funds). Ils peuvent servir à saisir des **opportunités en dehors de la thèse du fonds principal** ou de ses limites de concentration. Ils permettent aussi d’exercer des droits pro‑rata pour réaliser des follow‑on dans les sociétés performantes, même lorsque le fonds principal manque de capital. Enfin, ils peuvent être utilisés comme **fonds de continuation** pour conserver un actif gagnant au‑delà de la durée de vie initiale d’un fonds.  \n* **Alignement économique :** La structure SPV permet à l’organisateur ou au syndicate lead de **percevoir du carried interest**, part des profits de l’investissement, alignant ainsi sa réussite financière sur celle des investisseurs."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## What are the different types of SPV? {#what-are-the-different-types-of-spv}",
+    "translation_md": "## Quels sont les différents types de SPV ? {#what-are-the-different-types-of-spv}"
+    },
+    {
+    "id": "ad47389f62",
+    "md_type": "paragraph_or_misc",
+    "source_md": "While all SPVs share core characteristics like legal separation and a limited purpose, they can be categorized into four primary types based on their function. ",
+    "translation_md": "Bien que tous les SPV partagent des caractéristiques centrales comme la séparation juridique et une finalité limitée, on peut les classer en quatre grandes catégories selon leur fonction."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Investment vehicles {#investment-vehicles}",
+    "translation_md": "### Véhicules d’investissement {#investment-vehicles}"
+    },
+    {
+    "id": "2a84a0452e",
+    "md_type": "paragraph_or_misc",
+    "source_md": "As an Investment Vehicle, an SPV’s primary role is to **pool capital from multiple investors** to make a targeted investment. This structure is central to modern alternative investing.",
+    "translation_md": "En tant que véhicule d’investissement, le rôle principal d’un SPV est de **mutualiser le capital de plusieurs investisseurs** pour réaliser une opération ciblée. Cette structure est au cœur de l’investissement alternatif moderne."
+    },
+    {
+    "id": "aad636855f",
+    "md_type": "list_candidate",
+    "source_md": "* This is the standard for venture capital deals, angel syndicates, and opportunistic "sidecar" investments. SPVs are also used for securitizing loans, facilitating co-investments, and creating SPACs as a faster alternative to a traditional IPO.  \n* They provide investors with deal-by-deal choice, democratize access with lower investment minimums, and allow fund managers to pursue flexible strategies.",
+    "translation_md": "* C’est le standard pour les opérations de venture capital, les syndications d’anges et les investissements « sidecar » opportunistes (co‑investissements). Les SPV servent aussi à la titrisation de prêts, à faciliter des co‑investissements et à créer des SPAC, alternative plus rapide à une IPO traditionnelle.  \n* Ils offrent aux investisseurs un choix **deal par deal**, démocratisent l’accès grâce à des tickets minimaux plus faibles et permettent aux gérants de mettre en œuvre des stratégies flexibles."
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "e1f57bebbb",
+    "md_type": "list_candidate",
+    "source_md": "**Looking to set up an investment vehicle?**",
+    "translation_md": "**Vous souhaitez créer un véhicule d’investissement ?**"
+    },
+    {
+    "id": "6b9c8fde70",
+    "md_type": "list_candidate",
+    "source_md": "*Roundtable makes it easy to launch and manage SPVs, from onboarding investors to handling legal, KYC, and ongoing administration. Get your deal live in days, with full control  and transparency.*",
+    "translation_md": "*Roundtable facilite le lancement et la gestion de SPV, de l’onboarding des investisseurs à la gestion juridique, au KYC et à l’administration continue. Mettez votre deal en ligne en quelques jours, avec contrôle et transparence complets.*"
+    },
+    {
+    "id": "10e95afb66",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Get in touch today](https://www.roundtable.eu/contact-us)",
+    "translation_md": "[Contactez‑nous dès aujourd’hui](https://www.roundtable.eu/contact-us)"
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Project companies {#project-companies}",
+    "translation_md": "### Sociétés de projet {#project-companies}"
+    },
+    {
+    "id": "9edebfe7ce",
+    "md_type": "paragraph_or_misc",
+    "source_md": "This type of SPV is created to execute a **specific, large-scale, and often collaborative endeavor**. It functions as the legal and operational entity for a single project, containing all related activities and financing.",
+    "translation_md": "Ce type de SPV est créé pour mener à bien une **initiative spécifique, de grande ampleur, souvent collaborative**. Il fonctionne comme l’entité juridique et opérationnelle d’un projet unique, regroupant l’ensemble des activités et des financements associés."
+    },
+    {
+    "id": "bc58034ea9",
+    "md_type": "list_candidate",
+    "source_md": "* Project Companies are integral to public-private partnerships (PPPs) for capital-intensive infrastructure, used to manage real estate developments, and formed as joint ventures for companies to collaborate on new products without a full merger.  \n* They allow partners to share and absorb risk while streamlining project-specific financing and management.",
+    "translation_md": "* Les sociétés de projet sont essentielles aux partenariats public‑privé (PPPs) pour des infrastructures capital‑intensives, servent à gérer des opérations immobilières et sont constituées en coentreprises pour permettre à des sociétés de collaborer sur de nouveaux produits sans fusion complète.  \n* Elles permettent aux partenaires de partager et d’absorber le risque tout en simplifiant le financement et la gestion propres au projet."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Intermediate SPVs {#intermediate-spvs}",
+    "translation_md": "### SPV intermédiaires {#intermediate-spvs}"
+    },
+    {
+    "id": "382b406e1d",
+    "md_type": "paragraph_or_misc",
+    "source_md": "An Intermediate SPV functions as a "middleman" entity, designed to **own specific assets and legally separate them from the parent company** for risk protection and transactional efficiency.",
+    "translation_md": "Un SPV intermédiaire agit comme entité « intermédiaire », conçue pour **détenir des actifs spécifiques et les séparer juridiquement de la société mère** afin de protéger contre le risque et de gagner en efficacité transactionnelle."
+    },
+    {
+    "id": "83aff7e380",
+    "md_type": "list_candidate",
+    "source_md": "* This structure is used to create a "bankruptcy-remote" shield for assets, hold individual real estate parcels to isolate liability, and simplify asset transfers by packaging an asset and its permits into a single, sellable entity. They are also frequently used in Leveraged Buyouts (LBOs) to house acquisition debt.  \n* They offer robust liability protection and risk isolation, ensuring that the financial distress of one asset or entity does not impact the broader portfolio or parent company.",
+    "translation_md": "* Cette structure sert à créer un bouclier « bankruptcy‑remote » pour des actifs, loger des parcelles immobilières individuelles afin d’isoler la responsabilité et simplifier des transferts d’actifs en regroupant actif et autorisations au sein d’une entité unique cessible. Elle est également fréquente dans les Leveraged Buyouts (LBO) pour loger la dette d’acquisition.  \n* Elle offre une protection solide en matière de responsabilité et d’isolation du risque, de sorte que les difficultés d’un actif ou d’une entité n’affectent pas le portefeuille plus large ni la société mère."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Jurisdictional Shell Companies {#jurisdictional-shell-companies}",
+    "translation_md": "### Sociétés écrans par juridiction {#jurisdictional-shell-companies}"
+    },
+    {
+    "id": "ba710f4e6d",
+    "md_type": "paragraph_or_misc",
+    "source_md": "This type of SPV is strategically established in a specific legal or tax jurisdiction to **leverage benefits related to tax treatment, privacy, or regulatory compliance**.",
+    "translation_md": "Ce type de SPV est établi de manière stratégique dans une juridiction juridique ou fiscale donnée afin **de tirer parti d’avantages liés au traitement fiscal, à la confidentialité ou à la conformité réglementaire**."
+    },
+    {
+    "id": "3a8bce009e",
+    "md_type": "list_candidate",
+    "source_md": "* They are often registered in tax-friendly jurisdictions to optimize financial outcomes. Their main advantages are tax efficiency and simplified compliance for international or tax-sensitive investors.  \n* Note, SPVs are often scrutinized by tax authorities, so careful consideration and involvement of legal specialists are required to ensure that all structures are compliant.",
+    "translation_md": "* Elles sont souvent enregistrées dans des juridictions fiscalement favorables pour optimiser les résultats financiers. Leurs principaux atouts sont l’efficacité fiscale et une conformité simplifiée pour des investisseurs internationaux ou sensibles à la fiscalité.  \n* À noter : les SPV font souvent l’objet de contrôles par les autorités fiscales ; une analyse attentive et l’intervention de spécialistes juridiques sont requises pour garantir la conformité des structures."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Note on SPV vs. regular subsidiary {#note-on-spv-vs-regular-subsidiary}",
+    "translation_md": "### Note sur SPV vs filiale « classique » {#note-on-spv-vs-regular-subsidiary}"
+    },
+    {
+    "id": "872fc6091a",
+    "md_type": "paragraph_or_misc",
+    "source_md": "All SPVs may be subsidiaries, but not all subsidiaries are SPVs.",
+    "translation_md": "Tous les SPV peuvent être des filiales, mais toutes les filiales ne sont pas des SPV."
+    },
+    {
+    "id": "2aa2bb28fc",
+    "md_type": "paragraph_or_misc",
+    "source_md": "An SPV is distinguished by its **limited purpose**, operational autonomy, and often special structural features (e.g., minimal equity, independent governance), designed to achieve off-balance-sheet treatment, subject to IFRS 10 and ASC 810 consolidation tests.",
+    "translation_md": "Un SPV se distingue par sa **finalité limitée**, son autonomie opérationnelle et souvent des caractéristiques structurelles spécifiques (p. ex., capital minimal, gouvernance indépendante), conçues pour permettre un traitement hors bilan, sous réserve des tests de consolidation IFRS 10 et ASC 810."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## What are use cases for an SPV? {#what-are-use-cases-for-an-spv}",
+    "translation_md": "## Quels sont les cas d’usage d’un SPV ? {#what-are-use-cases-for-an-spv}"
+    },
+    {
+    "id": "8211297895",
+    "md_type": "paragraph_or_misc",
+    "source_md": "The fundamental characteristics of an SPV make it a versatile tool for transactions in a range of industries. ",
+    "translation_md": "Les caractéristiques fondamentales d’un SPV en font un outil polyvalent pour des transactions dans de nombreux secteurs."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for Venture Capital & Private Equity {#spvs-for-venture-capital-private-equity}",
+    "translation_md": "### SPV pour le venture capital et le private equity {#spvs-for-venture-capital-private-equity}"
+    },
+    {
+    "id": "7adb0a132a",
+    "md_type": "paragraph_or_misc",
+    "source_md": "In private markets, SPVs for venture capital deals help structure investments, pool capital, and manage risk on a deal-by-deal basis.",
+    "translation_md": "Sur les marchés privés, les SPV pour opérations de venture capital aident à structurer les investissements, mutualiser le capital et gérer le risque **deal par deal**."
+    },
+    {
+    "id": "88b2efbbdf",
+    "md_type": "list_candidate",
+    "source_md": "* **Targeted investing:** SPVs allow investors (LPs) and angel syndicates to pool capital for a single, specific company, rather than investing in a broad fund portfolio. This provides **direct choice and visibility** over the investment.  \n* **Greater access:** The structure often allows for **lower investment minimums**, making high-growth startups accessible to a wider range of investors. For angel groups, it allows them to write larger checks and negotiate better deal terms.  \n* **Strategic fund management:** For fund managers (GPs), SPVs are used to make opportunistic **"sidecar" investments** outside a fund’s core thesis, execute follow-on investments to support winning companies, and build a track record before raising a traditional fund.  \n* **Founder simplicity:** For founders receiving investment, an SPV consolidates many small investors into a **single entity on their cap table**, dramatically reducing administrative work.",
+    "translation_md": "* **Investissement ciblé :** Les SPV permettent aux investisseurs (LPs) et aux syndications d’anges de mutualiser du capital pour une société unique et précise, plutôt que d’investir dans le portefeuille large d’un fonds. Cela offre **un choix et une visibilité directs**.  \n* **Accès élargi :** La structure permet souvent des **tickets minimaux plus faibles**, rendant les startups à forte croissance accessibles à un plus grand nombre d’investisseurs. Pour les groupes d’anges, elle permet d’émettre des chèques plus importants et de négocier de meilleures conditions.  \n* **Gestion stratégique du fonds :** Pour les gestionnaires (GPs), les SPV servent à réaliser des investissements « sidecar » opportunistes en dehors de la thèse du fonds, à effectuer des follow‑on pour soutenir les sociétés performantes et à bâtir un track‑record avant de lever un fonds traditionnel.  \n* **Simplicité côté fondateurs :** Pour les fondateurs, un SPV regroupe de nombreux petits investisseurs en **une seule entité sur la cap table**, ce qui réduit fortement la charge administrative."
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "1a44fa581b",
+    "md_type": "list_candidate",
+    "source_md": "**Fund faster with Roundtable**",
+    "translation_md": "**Levez plus vite avec Roundtable**"
+    },
+    {
+    "id": "d00f2253a5",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Move your deals forward with confidence, backed by Roundtable’s digital SPV creation platform. Let us handle everything from legal setup to LP management while you do what you do best – make deals happen.",
+    "translation_md": "Faites avancer vos deals avec confiance grâce à la plateforme numérique de création de SPV de Roundtable. Confiez‑nous tout, de la constitution juridique à la gestion des LP, pendant que vous vous concentrez sur l’essentiel : faire aboutir les deals."
+    },
+    {
+    "id": "38399f185e",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Find out more about our [**SPVs for Venture Capital and Private Equity**](https://www.roundtable.eu/solutions/funds)",
+    "translation_md": "En savoir plus sur nos [**SPV pour le Venture Capital et le Private Equity**](https://www.roundtable.eu/solutions/funds)"
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for Real Estate & Property Management {#spvs-for-real-estate-property-management}",
+    "translation_md": "### SPV pour l’immobilier et la gestion d’actifs {#spvs-for-real-estate-property-management}"
+    },
+    {
+    "id": "43aa50546a",
+    "md_type": "paragraph_or_misc",
+    "source_md": "SPVs are a common occurrence in modern real estate investment, used to finance, own, and manage properties with greater efficiency and protection.",
+    "translation_md": "Les SPV sont fréquents dans l’investissement immobilier moderne ; ils servent à financer, détenir et gérer des actifs avec davantage d’efficacité et de protection."
+    },
+    {
+    "id": "e164af572f",
+    "md_type": "list_candidate",
+    "source_md": "* **Liability isolation:** By placing each property into a separate SPV, owners can **isolate liabilities.** A legal claim or financial issue related to one property will not affect others in the portfolio.  \n* **Tax optimization:** SPVs can offer **significant tax advantages**. Instead of selling a property and incurring high property sales tax, the owner can sell the SPV that holds it, often resulting in a lower capital gains tax bill.  \n* **Improved financing:** An SPV holding a valuable property can often **secure better loan terms** based on that asset's value, without impacting the parent company's creditworthiness.",
+    "translation_md": "* **Isolation des responsabilités :** En logeant chaque bien dans un SPV distinct, les propriétaires peuvent **isoler les passifs**. Une revendication juridique ou un problème financier lié à un actif n’affectera pas les autres du portefeuille.  \n* **Optimisation fiscale :** Les SPV peuvent offrir **d’importants avantages fiscaux**. Plutôt que de vendre le bien et supporter des droits élevés, le propriétaire peut céder le SPV qui le détient, aboutissant souvent à une imposition sur la plus‑value plus faible.  \n* **Financement amélioré :** Un SPV détenant un actif de valeur peut souvent **obtenir de meilleures conditions de prêt** en s’appuyant sur la valeur de cet actif, sans impacter la qualité de crédit de la société mère."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for Securitization & Structured Finance {#spvs-for-securitization-structured-finance}",
+    "translation_md": "### SPV pour la titrisation et la finance structurée {#spvs-for-securitization-structured-finance}"
+    },
+    {
+    "id": "1b82a504c2",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Securitization relies on SPVs to **transform illiquid assets into tradable securities.**",
+    "translation_md": "La titrisation s’appuie sur des SPV pour **transformer des actifs illiquides en titres négociables**."
+    },
+    {
+    "id": "6043377c1f",
+    "md_type": "list_candidate",
+    "source_md": "* A financial institution, such as a bank, sells a pool of assets (like mortgages, loans, or receivables) to an SPV.   \n* The SPV then issues tradable, asset-backed securities to investors.   \n* Because the assets are isolated in the bankruptcy-remote SPV, investors are shielded from the bank's own financial health, and their claim is tied directly to the performance of the underlying assets.",
+    "translation_md": "* Une institution financière, telle qu’une banque, cède un portefeuille d’actifs (hypothèques, prêts, créances, etc.) à un SPV.  \n* Le SPV émet ensuite, pour les investisseurs, des titres négociables adossés à ces actifs.  \n* Parce que les actifs sont isolés dans un SPV « bankruptcy‑remote », les investisseurs sont protégés de la santé financière de la banque et leur créance est liée directement à la performance des actifs sous‑jacents."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPVs for Mergers, Acquisitions & IPOs {#spvs-for-mergers-acquisitions-ipos}",
+    "translation_md": "### SPV pour fusions‑acquisitions et IPO {#spvs-for-mergers-acquisitions-ipos}"
+    },
+    {
+    "id": "0107468f4b",
+    "md_type": "paragraph_or_misc",
+    "source_md": "SPVs provide flexible structures for facilitating complex corporate finance transactions, including M\&A and public offerings.",
+    "translation_md": "Les SPV offrent des structures flexibles pour faciliter des opérations complexes de corporate finance, y compris des M\&A et des introductions en bourse."
+    },
+    {
+    "id": "637cf2fc2e",
+    "md_type": "list_candidate",
+    "source_md": "* **Facilitating M\&A:** SPVs can be used as **intervening entities** to solve structural problems when one company acquires another, such as a C-corporation acquiring an S-corporation.  \n* **"Up-C" for IPOs:** When a privately-held partnership goes public, it can use a C-corporation SPV to **hold the partnership interests**, which then undertakes the IPO.  \n* **SPACs:** A Special Purpose Acquisition Company (SPAC) is a type of SPV created specifically to **raise capital through an IPO** in order to acquire an existing private company, offering a faster alternative to a traditional IPO process.",
+    "translation_md": "* **Faciliter les M\&A :** Des SPV peuvent être utilisés comme **entités interposées** pour résoudre des problèmes de structure lorsqu’une société en acquiert une autre, par exemple lorsqu’une C‑corporation acquiert une S‑corporation.  \n* **« Up‑C » pour les IPO :** Lorsqu’un partnership privé devient public, il peut utiliser un SPV sous forme de C‑corporation pour **détenir les intérêts du partnership**, puis procéder à l’IPO.  \n* **SPAC :** Une Special Purpose Acquisition Company (SPAC) est un type de SPV créé spécifiquement pour **lever des capitaux via une IPO** afin d’acquérir une société privée existante, alternative plus rapide à une IPO traditionnelle."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Public-Private Partnerships (PPPs) {#public-private-partnerships-ppps}",
+    "translation_md": "### Partenariats public‑privé (PPPs) {#public-private-partnerships-ppps}"
+    },
+    {
+    "id": "b08d82601b",
+    "md_type": "paragraph_or_misc",
+    "source_md": "SPVs are a common part of public-private partnerships, especially for large-scale, capital-intensive infrastructure projects common throughout Europe. The SPV structure is often demanded by the private sector partners to help absorb and manage the significant financial risks involved in such long-term projects.",
+    "translation_md": "Les SPV sont courants dans les partenariats public‑privé, notamment pour des projets d’infrastructures de grande ampleur et capital‑intensifs répandus en Europe. La structure SPV est souvent exigée par les partenaires privés pour absorber et gérer les risques financiers importants inhérents à de tels projets de long terme."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## How does an SPV compare to other business structures {#how-does-an-spv-compare-to-other-business-structures}",
+    "translation_md": "## Comment un SPV se compare‑t‑il à d’autres structures d’entreprise {#how-does-an-spv-compare-to-other-business-structures}"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV vs SPAC {#spv-vs-spac}",
+    "translation_md": "### SPV vs SPAC {#spv-vs-spac}"
+    },
+    {
+    "id": "a9a8ab6fb8",
+    "md_type": "paragraph_or_misc",
+    "source_md": "While a Special Purpose Acquisition Company (SPAC) is a specialized type of SPV, their distinct goals lead to very different structures and operations.",
+    "translation_md": "**Encadré pour investisseurs français** : un SPAC est un type particulier de SPV dédié à la levée de fonds en bourse pour acquérir une société privée. Des **objectifs différents** impliquent des structures et opérations **très différentes**."
+    },
+    {
+    "id": "84843577b7",
+    "md_type": "table_candidate",
+    "source_md": "|  | SPV (Special Purpose Vehicle) | SPAC (Special Purpose Acquisition Co.) |\n| :---- | :---- | :---- |\n| **Primary Purpose** | Narrow, specific objective (hold assets, finance, isolate risk). | Raise public IPO funds to acquire a private company (take it public) |\n| **Ownership** | Sponsor, JV partners, or Orphaned (Trustee). | Sponsors (founders) \+ Public IPO investors. |\n| **Operations** | Usually passive/formulaic per contracts; no general business; often no employees. | No operations initially (“blank check”); holds cash in trust; seeks target. |\n| **Consolidation** | Consolidated if sponsor controls/benefits; otherwise off-balance sheet (with disclosure). | Standalone public shell; target merges into it, becoming operating co. |\n| **Lifespan** | Often limited to project/deal duration; dissolves when purpose met. | Temporary (typically \~24 months); liquidates if no merger, becomes target co. if merges. |\n| **Accountability** | Contractual to investors/creditors; usually private offerings. | Public company (SEC filings, listing rules); shareholder votes; redemption rights. |\n| **Key Difference** | Risk/Asset Isolation for specific known purposes. | Public Fundraising Shell for future unknown acquisition. |",
+    "translation_md": "|  | SPV (Special Purpose Vehicle) | SPAC (Special Purpose Acquisition Co.) |\n| :---- | :---- | :---- |\n| **Objet principal** | Objectif étroit et spécifique (détenir des actifs, financer, isoler le risque). | Lever des fonds via IPO pour acquérir une société privée (la rendre publique). |\n| **Propriété** | Sponsor, partenaires de JV, ou structure « orphan » (Trustee). | Sponsors (fondateurs) \+ investisseurs de l’IPO. |\n| **Opérations** | Généralement passives/« automatiques » selon les contrats ; pas d’activité générale ; souvent sans employés. | Aucune opération au départ (« blank check », coquille cotée) ; détient des espèces en trust ; recherche une cible. |\n| **Consolidation** | Consolidé si le sponsor contrôle/bénéficie ; sinon hors bilan (avec information en annexe). | Coquille publique autonome ; la cible y fusionne et devient la société opérationnelle. |\n| **Durée de vie** | Souvent limitée à la durée du projet/deal ; dissolution une fois l’objet atteint. | Temporaire (typiquement \~24 mois) ; liquidation si aucune fusion, devient la cible en cas de fusion. |\n| **Redevabilité** | Contractuelle envers investisseurs/créanciers ; offres généralement privées. | Société cotée (dépôts auprès de la SEC, règles de listing) ; votes des actionnaires ; droits de rachat (possibilité de récupérer sa mise). |\n| **Différence clé** | Isolation du risque/des actifs pour des finalités précises et connues. | Coquille de levée de fonds publique en vue d’une acquisition future non encore définie. |"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV vs Investment Fund {#spv-vs-investment-fund}",
+    "translation_md": "### SPV vs fonds d’investissement {#spv-vs-investment-fund}"
+    },
+    {
+    "id": "c14a206fa9",
+    "md_type": "paragraph_or_misc",
+    "source_md": "While both are vehicles for investment, an SPV's structure and purpose differ significantly from that of a traditional investment fund, such as a venture capital or private equity fund. An SPV offers a targeted, single-deal approach with greater investor discretion, whereas a fund provides a long-term, diversified portfolio managed by a General Partner (GP).",
+    "translation_md": "Bien que tous deux soient des véhicules d’investissement, la structure et la finalité d’un SPV diffèrent sensiblement de celles d’un fonds d’investissement traditionnel, tel qu’un fonds de venture capital ou de private equity. Un SPV propose une approche ciblée, **deal unique**, avec davantage de discrétion pour l’investisseur, tandis qu’un fonds offre un portefeuille diversifié et de long terme géré par un General Partner (GP)."
+    },
+    {
+    "id": "4c35e745ad",
+    "md_type": "table_candidate",
+    "source_md": "|  | SPV (Special Purpose Vehicle) | Traditional Investment Fund |\n| :---- | :---- | :---- |\n| **Investment Scope** | Single, targeted investment; no portfolio diversification. | Diversified portfolio; multiple companies, stages, and industries. |\n| **Investment Timeline** | Shorter-term; lifecycle tied to a single company exit. | Long-term (often 10+ years); multiple exits over time. |\n| **Capital Contributions** | Single, upfront capital contribution. | Multiple capital calls over the fund's lifecycle. |\n| **Investor Control** | Active LP involvement; deal-by-deal visibility and choice. | Passive LP role; GP has full discretion over investments. |\n| **Complexity & Cost** | Simpler structure; lower setup and ongoing costs. | Complex legal structure; higher governance needs and overall costs. |\n| **Fee Structure** | Fees vary and are often lower; may have no annual management fee. | Annual management fee (e.g., 1-3%) charged throughout its lifecycle. |",
+    "translation_md": "|  | SPV (Special Purpose Vehicle) | Fonds d’investissement traditionnel |\n| :---- | :---- | :---- |\n| **Périmètre d’investissement** | Investissement unique et ciblé ; pas de diversification de portefeuille. | Portefeuille diversifié ; plusieurs sociétés, stades et secteurs. |\n| **Horizon d’investissement** | Plus court ; cycle de vie lié à la sortie d’une seule société. | Long terme (souvent 10 ans et plus) ; multiples sorties dans le temps. |\n| **Contributions de capital** | Contribution unique et initiale. | Appels de fonds multiples sur la durée de vie du fonds. |\n| **Contrôle de l’investisseur** | Implication active des LP ; visibilité et choix **deal par deal**. | Rôle passif du LP ; le GP a toute discrétion sur les investissements. |\n| **Complexité et coût** | Structure plus simple ; coûts de mise en place et récurrents plus faibles. | Structure juridique complexe ; besoins de gouvernance et coûts globaux plus élevés. |\n| **Structure de frais** | Frais variables, souvent plus faibles ; parfois sans frais de gestion annuels. | Frais de gestion annuels (p. ex., 1–3 %) tout au long du cycle de vie. |"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## Advantages of an SPV {#advantages-of-an-spv}",
+    "translation_md": "## Avantages d’un SPV {#advantages-of-an-spv}"
+    },
+    {
+    "id": "0c7550cfde",
+    "md_type": "paragraph_or_misc",
+    "source_md": "By design, an SPV provides a framework for isolating risk, optimizing financial outcomes, and creating flexible, tailored investment opportunities for investors, founders, and fund managers alike.",
+    "translation_md": "Par conception, un SPV fournit un cadre pour isoler le risque, optimiser les résultats financiers et créer des opportunités d’investissement flexibles et sur mesure pour les investisseurs, les fondateurs et les gestionnaires de fonds."
+    },
+    {
+    "id": "70f6d44150",
+    "md_type": "list_candidate",
+    "source_md": "* **Risk isolation and liability protection:** An SPV's primary advantage is **shielding the parent company** or main fund from the financial risks and legal liabilities of a specific project. Because it is a "bankruptcy-remote entity," its operations can continue even if the parent company faces insolvency, making it ideal for high-stakes ventures.  \n* **Tax strategy:** SPVs can provide **tax benefits**, often through a pass-through structure that avoids double taxation at the entity level. They can be used strategically to minimize tax on specific transactions, such as property sales, and can be established in favorable jurisdictions to reduce overall tax burdens.  \n* **Investor access and control:** For investors, SPVs offer **visibility and active decision-making** on a deal-by-deal basis, a level of control not typically found in traditional funds. The structure also enables lower investment minimums, making alternative assets accessible to a broader range of investors.  \n* **Strategic benefits for founders and GPs:** Founders benefit from a simplified cap table, as multiple investors are consolidated into a single entity. For emerging fund managers (GPs), SPVs are an effective tool for **building an investment track record** before raising a larger, traditional fund.  \n* **Financial and operational efficiency:** The SPV structure **streamlines complex transactions** like project financing or asset transfers, reducing administrative workload. It can improve access to capital and help secure better financing terms by isolating specific assets. ",
+    "translation_md": "* **Isolation du risque et protection de la responsabilité :** L’atout principal d’un SPV (« véhicule ad hoc ») est de **protéger la société mère** ou le fonds principal des risques financiers et responsabilités juridiques d’un projet spécifique. Étant une entité « bankruptcy‑remote », il peut continuer à fonctionner même si la société mère est en difficulté, ce qui est idéal pour des projets à forts enjeux.  \n* **Stratégie fiscale :** Les SPV peuvent offrir des **avantages fiscaux**, souvent via une structure pass‑through évitant la double imposition au niveau de l’entité. Ils peuvent être utilisés de manière stratégique pour minimiser l’impôt sur des transactions spécifiques, comme la cession d’un bien, et être établis dans des juridictions favorables afin de réduire la charge fiscale globale.  \n* **Accès et contrôle pour l’investisseur :** Les SPV offrent aux investisseurs **visibilité et prise de décision active** **deal par deal**, un niveau de contrôle rare dans les fonds traditionnels. La structure permet également des tickets minimaux plus faibles, rendant les actifs alternatifs accessibles à davantage d’investisseurs.  \n* **Bénéfices stratégiques pour fondateurs et GP :** Les fondateurs profitent d’une cap table simplifiée, puisque de nombreux investisseurs sont consolidés dans une seule entité. Pour les gestionnaires émergents (GP), les SPV sont un outil efficace pour **constituer un track‑record** avant de lever un fonds traditionnel plus important.  \n* **Efficience financière et opérationnelle :** La structure SPV **rationalise des transactions complexes** comme le financement de projets ou les transferts d’actifs, réduisant la charge administrative. Elle peut améliorer l’accès au capital et aider à obtenir de meilleures conditions de financement en isolant des actifs spécifiques."
+    },
+    {
+    "id": "478585f864",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Compared to traditional funds, SPVs are often quicker and more cost-effective to set up and maintain, especially when working with a specialised partner like Roundtable. ",
+    "translation_md": "Par rapport aux fonds traditionnels, les SPV sont souvent plus rapides et plus économiques à mettre en place et à maintenir, surtout avec un partenaire spécialisé comme Roundtable."
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "aff683bdb6",
+    "md_type": "list_candidate",
+    "source_md": "**Get moving faster**",
+    "translation_md": "**Accélérez le passage à l’action**"
+    },
+    {
+    "id": "c4956a5336",
+    "md_type": "paragraph_or_misc",
+    "source_md": "Get your SPV live without the legwork with Roundtable’s complete digital platform. We handle everything from entity formation to investor onboarding and KYC, as well as drafting tailored legal agreements that fit your deal, so you can focus on closing investments.",
+    "translation_md": "Lancez votre SPV sans lourdeur opérationnelle grâce à la plateforme numérique complète de Roundtable. Nous gérons tout, de la constitution de l’entité à l’onboarding des investisseurs et au KYC, ainsi que la rédaction d’accords juridiques sur mesure adaptés à votre deal, pour que vous puissiez vous concentrer sur la finalisation des investissements."
+    },
+    {
+    "id": "ff5e1710b7",
+    "md_type": "paragraph_or_misc",
+    "source_md": "[Find out more by talking to one of our experts.](https://www.roundtable.eu/contact-us)",
+    "translation_md": "[En savoir plus en parlant à l’un de nos experts.](https://www.roundtable.eu/contact-us)"
+    },
+    {
+    "id": "58b63e273b",
+    "md_type": "list_candidate",
+    "source_md": "---",
+    "translation_md": "---"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## Disadvantages of an SPV {#disadvantages-of-an-spv}",
+    "translation_md": "## Inconvénients d’un SPV {#disadvantages-of-an-spv}"
+    },
+    {
+    "id": "93487d5077",
+    "md_type": "paragraph_or_misc",
+    "source_md": "While useful, SPVs come with their own specific challenges, from their **inherent complexity and operational costs** to the potential for **regulatory changes and misuse**. ",
+    "translation_md": "Utile, le SPV présente néanmoins des défis spécifiques, allant de sa **complexité inhérente et de ses coûts opérationnels** au risque **d’évolutions réglementaires et d’abus**."
+    },
+    {
+    "id": "32e828012e",
+    "md_type": "list_candidate",
+    "source_md": "* **Complexity and opacity:** SPV structures **can be highly intricate**, making it difficult for investors and even sponsors to fully comprehend the underlying financial risks. This complexity can lead to a lack of transparency and challenges in accurately valuing the assets held by the vehicle, placing a significant due diligence burden on all parties.  \n* **Regulatory scrutiny:** The features that make SPVs useful, such as legal separation and opacity, can be exploited. Historically, they have been misused in high-profile cases to hide debt and inflate earnings. They can also be used in aggressive international structures for tax avoidance, which has led to **increased scrutiny from global bodies.**  \n* **Operational and counterparty risks:** Setting up and managing an SPV involves **significant costs, time, and administrative effort**. The vehicle is also dependent on external parties like servicers and administrators; the failure of any key counterparty can disrupt cash flows and create significant operational or market risks.  \n* **Regulatory risk:** SPVs are **vulnerable to changes** in the legal and financial landscape. New accounting standards, evolving tax laws (like [BEPS initiatives](https://www.ey.com/en_gl/services/tax/base-erosion-profit-shifting-beps)), or stricter financial regulations (like [AIFMD](https://eur-lex.europa.eu/eli/dir/2011/61/oj/eng)) can impose new costs and compliance burdens, potentially altering an SPV’s financial viability overnight",
+    "translation_md": "* **Complexité et opacité :** Les structures SPV **peuvent être très élaborées**, rendant difficile pour les investisseurs et même les sponsors la compréhension des risques financiers sous‑jacents. Cette complexité peut entraîner un manque de transparence et des difficultés à valoriser avec précision les actifs détenus par le véhicule, alourdissant la due diligence pour toutes les parties.  \n* **Surveillance réglementaire :** Les caractéristiques qui rendent les SPV utiles, telles que la séparation juridique et une certaine opacité, peuvent être détournées. Historiquement, ils ont été utilisés dans des affaires médiatisées pour cacher de la dette et gonfler des résultats. Ils peuvent aussi servir dans des montages internationaux agressifs d’optimisation fiscale, ce qui a conduit à **un contrôle accru des organismes internationaux**.  \n* **Risques opérationnels et de contrepartie :** La création et la gestion d’un SPV impliquent **des coûts, du temps et des efforts administratifs significatifs**. Le véhicule dépend également de parties externes (servicers, administrateurs) ; la défaillance d’une contrepartie clé peut perturber les flux de trésorerie et créer des risques opérationnels ou de marché importants.  \n* **Risque réglementaire :** Les SPV sont **exposés aux changements** du cadre juridique et financier. De nouvelles normes comptables, l’évolution des lois fiscales (comme les initiatives [BEPS](https://www.ey.com/en_gl/services/tax/base-erosion-profit-shifting-beps)) ou des règles financières plus strictes (comme [AIFMD](https://eur-lex.europa.eu/eli/dir/2011/61/oj/eng)) peuvent imposer des coûts et contraintes de conformité supplémentaires, pouvant altérer du jour au lendemain la viabilité financière d’un SPV."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "## How does an SPV work? {#how-does-an-spv-work}",
+    "translation_md": "## Comment fonctionne un SPV ? {#how-does-an-spv-work}"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### SPV Core Concepts {#spv-core-concepts}",
+    "translation_md": "### Principes clés d’un SPV {#spv-core-concepts}"
+    },
+    {
+    "id": "b2589768dc",
+    "md_type": "list_candidate",
+    "source_md": "* **Separate legal personality:** An SPV has its **own legal status**, distinct from its creator. It owns its own assets, incurs liabilities, enters into contracts, and maintains a separate balance sheet, a feature that is fundamental to its operation.  \n* **Limited purpose:** An SPV is a **"fenced organisation"** created for a singular, specific purpose. Its governing documents strictly limit its activities to a predefined objective, such as holding a particular asset, which prevents it from taking on unrelated debts or business lines.  \n* **Bankruptcy remoteness:** A primary goal of the structure is to make the SPV "bankruptcy-remote". This **insulates the SPV’s assets** from its parent’s creditors in case of insolvency, and vice versa. *Note: "remote" does not mean "immune" – a court can still challenge the SPV's separation from its parent in exceptional circumstances.*  \n* **Custom capital structure:** To enhance its independence, an SPV often has a custom capital structure with **minimal equity.** In an "orphan" structure, ownership can be held by an independent third party, like a trustee, instead of the sponsor.  \n* **Defined lifespan:** Many SPVs are designed to be temporary, **dissolving once their specific purpose is fulfilled,** such as when a project is completed or a financing is repaid. Others may be ongoing but remain strictly limited to their original venture.",
+    "translation_md": "* **Personnalité juridique distincte :** Un SPV a **son propre statut juridique**, distinct de son créateur. Il détient ses actifs, contracte des passifs, conclut des contrats et tient une balance séparée, élément fondamental de son fonctionnement.  \n* **Finalité limitée :** Un SPV est une **« organisation cloisonnée »** créée pour une finalité unique et spécifique. Ses documents constitutifs limitent strictement ses activités à un objectif prédéfini (par exemple la détention d’un actif), ce qui l’empêche de contracter des dettes ou des activités sans lien.  \n* **Étanchéité à la faillite :** Un objectif clé est de rendre le SPV « bankruptcy‑remote ». Cela **isole les actifs du SPV** des créanciers de sa société mère en cas d’insolvabilité, et inversement. *Note : « remote » ne signifie pas « immunisé » ; un tribunal peut contester la séparation dans des circonstances exceptionnelles.*  \n* **Structure de capital sur mesure :** Pour renforcer son indépendance, un SPV présente souvent une structure de capital **avec un equity minimal**. Dans une structure « orphan », la propriété peut être détenue par un tiers indépendant, tel qu’un trustee, plutôt que par le sponsor.  \n* **Durée de vie définie :** Beaucoup de SPV sont temporaires, **dissous une fois l’objet spécifique atteint**, par exemple à l’achèvement d’un projet ou au remboursement d’un financement. D’autres peuvent être pérennes mais restent strictement limités à leur objet initial d’« entité ad hoc »."
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Common legal forms of SPVs  {#common-legal-forms-of-spvs}",
+    "translation_md": "### Formes juridiques courantes de SPV  {#common-legal-forms-of-spvs}"
+    },
+    {
+    "id": "e965851c27",
+    "md_type": "paragraph_or_misc",
+    "source_md": "An SPV is not a single, rigid structure – it **can be established in a variety of legal forms**, with structures to be found in major financial jurisdictions across the US, Europe, and offshore centers.",
+    "translation_md": "Un SPV n’est pas une structure unique et rigide : il **peut être établi sous diverses formes juridiques**, présentes dans les principales juridictions financières aux États‑Unis, en Europe et dans des centres offshore."
+    },
+    {
+    "id": "4307ab9d0b",
+    "md_type": "list_candidate",
+    "source_md": "*For more information on SPV forms by region, see the section below.*",
+    "translation_md": "*Pour plus d’informations sur les formes de SPV par région, voir la section ci‑dessous.*"
+    },
+    {
+    "id": "d506d05a89",
+    "md_type": "table_candidate",
+    "source_md": "| SPV Type | Common Jurisdictions | Primary Use Cases |\n| :---- | :---- | :---- |\n| **Corporation / Limited Co.** | Global (e.g., Delaware C-Corp, UK Ltd, French SA, German GmbH). | Provides limited liability to owners  Often used for "orphan" ownership structures. |\n| **Limited Liability Company (LLC)** | Popular in the US (especially Delaware). | Ideal for venture capital syndicates and asset holding  Offers liability protection with pass-through taxation. |\n| **Limited Partnership (LP)** | Globally recognized (e.g., Delaware LP, UK PFLP, German GmbH & Co. KG). | Common structure for investment funds and SPVs Provides limited liability to investors (LPs) with pass-through taxation. |\n| **Société Civile (SC)** | France | Partnership structure for real estate and family holdings Tax translucid, but still unlimited partner liability. |\n| **Trusts** | Legal frameworks vary significantly by jurisdiction (e.g., US, UK). | Used for securitizations, such as creating asset-backed securities  Also used to facilitate orphan ownership structures. |\n| **Fund Structures** | Used in specific jurisdictions like France and Luxembourg. | Unincorporated funds that offer bankruptcy remoteness by statute. |\n| **Series / Segregated Structures** | Certain US states (Series LLC) and offshore jurisdictions like the Cayman Islands (SPC). | Allows a single legal entity to create multiple, internally ring-fenced portfolios  Reduces setup costs compared to creating many separate SPVs. |",
+    "translation_md": "| Type de SPV | Juridictions courantes | Cas d’usage principaux |\n| :---- | :---- | :---- |\n| **Corporation / Limited Co.** | Global (p. ex., Delaware C‑Corp, UK Ltd, SA française, GmbH allemande). | Offre une responsabilité limitée aux propriétaires. Souvent utilisée pour des structures de propriété « orphan ». |\n| **Limited Liability Company (LLC)** | Populaire aux États‑Unis (surtout Delaware). | Idéale pour les syndications de venture capital et la détention d’actifs. Offre une protection en responsabilité avec fiscalité pass‑through. |\n| **Limited Partnership (LP)** | Reconnu mondialement (p. ex., Delaware LP, UK PFLP, GmbH & Co. KG allemande). | Structure courante pour les fonds et les SPV. Offre une responsabilité limitée aux investisseurs (LPs) avec fiscalité pass‑through. |\n| **Société Civile (SC)** | France | Structure de partenariat pour l’immobilier et les patrimoines familiaux. Translucidité fiscale, mais responsabilité illimitée des associés. |\n| **Trusts** | Cadres juridiques très variables selon la juridiction (p. ex., US, UK). | Utilisés pour des titrisations (création d’ABS). Servent aussi à faciliter des structures de propriété « orphan ». |\n| **Structures de fonds** | Utilisées dans certaines juridictions comme la France et le Luxembourg. | Fonds non constitués en société offrant une étanchéité à la faillite prévue par la loi. |\n| **Structures « Series »/ségréguées** | Certains États américains (Series LLC) et juridictions offshore comme les Cayman Islands (SPC). | Permettent à une entité juridique unique de créer plusieurs portefeuilles cloisonnés en interne. Réduisent les coûts par rapport à la création de nombreux SPV distincts. |"
+    },
+    {
+    "id": "",
+    "md_type": "heading",
+    "source_md": "### Key players in an SPV {#key-players-in-an-spv}",
+    "translation_md": "### Acteurs clés d’un SPV {#key-players-in-an-spv}"
+    },
+    {
+    "id": "dae713c4e2",
+    "md_type": "paragraph_or_misc",
+    "source_md": "A successful SPV relies on a network of participants, each performing a specific role to ensure the vehicle is structured, funded, and managed effectively. ",
+    "translation_md": "Un SPV performant s’appuie sur un réseau de participants, chacun jouant un rôle précis pour garantir une structuration, un financement et une gestion efficaces du véhicule."
+    },
+    {
+    "id": "88c5932750",
+    "md_type": "list_candidate",
+    "source_md": "* **Sponsor (or parent company):** This is the organization that **creates the SPV**. Its primary motivation is to isolate the financial risk of a specific project from its own balance sheet.  \n* **Investors (or Limited Partners):** Individuals or firms who **provide capital** to the SPV in exchange for an equity stake. Their goal is to gain targeted exposure to a specific investment opportunity, often with lower minimums and more deal-by-deal control than a traditional fund offers.  \n* **Manager (GP or Syndicate Lead):** The manager is the individual or firm that **sources the deal, organizes the SPV, and manages it on behalf of investors.** They are responsible for all operational aspects, from investment decisions to investor reporting, and are compensated through management fees and carried interest (a share of the profits).  \n* **Target company:** The company that **receives the investment from the SPV**. For founders, the primary benefit is a simplified capitalization table, as the SPV consolidates many individual investors into a single line item, reducing administrative work.  \n* **Service providers:** A network of professionals provides essential support. This includes **law firms** for legal structuring, **accountants** for tax and financial reporting, banks for holding funds, and specialized **SPV administrators** for back-office management and compliance.  \n* **Regulators:** Government agencies (like the SEC in the US) set the **legal framework** for SPVs. They enforce securities and tax laws and often place limits on the number and type of investors who can participate in an offering.",
+    "translation_md": "* **Sponsor (ou société mère) :** Organisation qui **crée le SPV**. Sa motivation principale est d’isoler le risque financier d’un projet spécifique de son propre bilan.  \n* **Investisseurs (ou Limited Partners) :** Personnes physiques ou morales qui **apportent du capital** au SPV en échange d’une participation. Leur objectif est d’obtenir une exposition ciblée à une opportunité d’investissement, souvent avec des tickets minimaux plus faibles et davantage de contrôle **deal par deal** qu’avec un fonds traditionnel.  \n* **Manager (GP ou syndicate lead) :** Personne ou société qui **source le deal, organise le SPV et le gère pour le compte des investisseurs**. Responsable de tous les aspects opérationnels, des décisions d’investissement au reporting investisseurs, il est rémunéré via des frais de gestion et du carried interest (part des profits).  \n* **Société cible :** Société qui **reçoit l’investissement du SPV**. Pour les fondateurs, l’avantage principal est une cap table simplifiée, car le SPV regroupe de nombreux investisseurs individuels en une seule ligne, réduisant le travail administratif.  \n* **Fournisseurs de services :** Réseau de professionnels apportant un soutien essentiel : **cabinets d’avocats** (structuration juridique), **experts‑comptables** (fiscalité et reporting), banques (tenue des fonds) et **administrateurs de SPV** spécialisés (back‑office et conformité).  \n* **Régulateurs :** Autorités publiques (comme la SEC aux États‑Unis) qui fixent le **cadre juridique** des SPV, appliquent le droit des valeurs mobilières et la fiscalité et limitent souvent le nombre et le type d’investisseurs pouvant participer à une offre."
+    }
+    ],
+    "glossary_applied": [
+    "SPV",
+    "SPE",
+    "SPAC",
+    "LBO",
+    "IPO",
+    "GP",
+    "LP",
+    "NAV",
+    "IRR",
+    "MOIC",
+    "KYC",
+    "FATCA",
+    "CRS",
+    "AIFMD",
+    "BEPS",
+    "PPP",
+    "LLC",
+    "LP",
+    "Ltd",
+    "PFLP",
+    "Trust",
+    "Series LLC",
+    "SPC",
+    "SC",
+    "GmbH",
+    "GmbH & Co. KG",
+    "Roundtable",
+    "SEC",
+    "Delaware",
+    "Luxembourg",
+    "Cayman Islands",
+    "carried interest",
+    "blind‑pool",
+    "cap table",
+    "Up‑C",
+    "ABS"
+    ],
+    "notes": "Citations :  . SPV conservé comme terme principal, avec mentions ciblées de « véhicule ad hoc »/« entité ad hoc ». Respect des DNT et ancrages conservés."
+    }
+    
